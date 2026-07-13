@@ -1,0 +1,21 @@
+id,building_id,floor_number,label
+1,1,0,Ground Floor - Reception & Emergency
+2,1,1,Floor 1
+3,1,2,Floor 2
+4,1,3,Floor 3
+5,1,4,Floor 4
+6,2,0,Ground Floor - Reception & Emergency
+7,2,1,Floor 1
+8,2,2,Floor 2
+9,2,3,Floor 3
+10,2,4,Floor 4
+11,3,0,Ground Floor - Reception & Emergency
+12,3,1,Floor 1
+13,3,2,Floor 2
+14,3,3,Floor 3
+15,3,4,Floor 4
+16,4,0,Ground Floor - Reception & Emergency
+17,4,1,Floor 1
+18,4,2,Floor 2
+19,4,3,Floor 3
+20,4,4,Floor 4

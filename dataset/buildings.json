@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "Main Building",
+    "description": "OPD, wards, and administrative offices"
+  },
+  {
+    "id": 2,
+    "name": "Diagnostics Building",
+    "description": "Laboratory, radiology, and imaging"
+  },
+  {
+    "id": 3,
+    "name": "Cancer Care Building",
+    "description": "Oncology and chemotherapy day-care"
+  },
+  {
+    "id": 4,
+    "name": "Emergency Block",
+    "description": "24x7 emergency and trauma care"
+  }
+]

@@ -1,0 +1,422 @@
+[
+  {
+    "id": 1,
+    "category": "Registration",
+    "question": "How do I register as a new patient?",
+    "answer": "Visit the Registration counter on the Ground Floor with a valid ID proof and address proof. A staff member will create your patient file and issue a Patient ID card.",
+    "keywords": "registration"
+  },
+  {
+    "id": 2,
+    "category": "Billing",
+    "question": "How can I get an itemized bill?",
+    "answer": "Submit an itemized bill request at the Billing counter (Ground Floor, Main Building) with your admission ID. Itemized bills are typically ready within 24 hours.",
+    "keywords": "billing"
+  },
+  {
+    "id": 3,
+    "category": "Insurance",
+    "question": "Which insurance providers are accepted?",
+    "answer": "Most major insurance providers are accepted through cashless and reimbursement claims. Please check with the Insurance Desk with your policy card for specific coverage.",
+    "keywords": "insurance"
+  },
+  {
+    "id": 4,
+    "category": "Admission",
+    "question": "What is required for hospital admission?",
+    "answer": "Bring your ID proof, insurance card (if applicable), and pay the admission deposit at the Admission counter. A bed will be allotted based on availability and doctor's advice.",
+    "keywords": "admission"
+  },
+  {
+    "id": 5,
+    "category": "Laboratory",
+    "question": "Where is the laboratory located?",
+    "answer": "The Laboratory is on the Ground Floor of the Diagnostics Building. Bring your doctor's test prescription and Patient ID card.",
+    "keywords": "laboratory"
+  },
+  {
+    "id": 6,
+    "category": "Pharmacy",
+    "question": "Where can I collect my medicines?",
+    "answer": "The Pharmacy is located on the Ground Floor of the Main Building, next to the OPD waiting area. Submit your doctor's prescription at the counter.",
+    "keywords": "pharmacy"
+  },
+  {
+    "id": 7,
+    "category": "Emergency",
+    "question": "What should I do in a medical emergency?",
+    "answer": "Go directly to the Emergency Department (Ground Floor, Emergency Block, red signage) or alert any staff member immediately. Emergency care is available 24x7.",
+    "keywords": "emergency"
+  },
+  {
+    "id": 8,
+    "category": "General",
+    "question": "What are the hospital's visiting hours?",
+    "answer": "General visiting hours are 11:00-13:00 and 17:00-19:00 daily. ICU visiting is restricted to immediate family with staff permission.",
+    "keywords": "general"
+  },
+  {
+    "id": 9,
+    "category": "General",
+    "question": "Is parking available?",
+    "answer": "Yes, multi-level parking is available near the Main Building entrance, with a dedicated drop-off zone for Emergency and elderly patients.",
+    "keywords": "general"
+  },
+  {
+    "id": 10,
+    "category": "Discharge",
+    "question": "How does the discharge process work?",
+    "answer": "Your doctor issues a discharge summary, the Billing counter settles the final bill, and the nursing station completes discharge formalities before you leave the ward.",
+    "keywords": "discharge"
+  },
+  {
+    "id": 11,
+    "category": "Registration",
+    "question": "How do I register as a new patient?",
+    "answer": "Visit the Registration counter on the Ground Floor with a valid ID proof and address proof. A staff member will create your patient file and issue a Patient ID card.",
+    "keywords": "registration"
+  },
+  {
+    "id": 12,
+    "category": "Billing",
+    "question": "How can I get an itemized bill?",
+    "answer": "Submit an itemized bill request at the Billing counter (Ground Floor, Main Building) with your admission ID. Itemized bills are typically ready within 24 hours.",
+    "keywords": "billing"
+  },
+  {
+    "id": 13,
+    "category": "Insurance",
+    "question": "Which insurance providers are accepted?",
+    "answer": "Most major insurance providers are accepted through cashless and reimbursement claims. Please check with the Insurance Desk with your policy card for specific coverage.",
+    "keywords": "insurance"
+  },
+  {
+    "id": 14,
+    "category": "Admission",
+    "question": "What is required for hospital admission?",
+    "answer": "Bring your ID proof, insurance card (if applicable), and pay the admission deposit at the Admission counter. A bed will be allotted based on availability and doctor's advice.",
+    "keywords": "admission"
+  },
+  {
+    "id": 15,
+    "category": "Laboratory",
+    "question": "Where is the laboratory located?",
+    "answer": "The Laboratory is on the Ground Floor of the Diagnostics Building. Bring your doctor's test prescription and Patient ID card.",
+    "keywords": "laboratory"
+  },
+  {
+    "id": 16,
+    "category": "Pharmacy",
+    "question": "Where can I collect my medicines?",
+    "answer": "The Pharmacy is located on the Ground Floor of the Main Building, next to the OPD waiting area. Submit your doctor's prescription at the counter.",
+    "keywords": "pharmacy"
+  },
+  {
+    "id": 17,
+    "category": "Emergency",
+    "question": "What should I do in a medical emergency?",
+    "answer": "Go directly to the Emergency Department (Ground Floor, Emergency Block, red signage) or alert any staff member immediately. Emergency care is available 24x7.",
+    "keywords": "emergency"
+  },
+  {
+    "id": 18,
+    "category": "General",
+    "question": "What are the hospital's visiting hours?",
+    "answer": "General visiting hours are 11:00-13:00 and 17:00-19:00 daily. ICU visiting is restricted to immediate family with staff permission.",
+    "keywords": "general"
+  },
+  {
+    "id": 19,
+    "category": "General",
+    "question": "Is parking available?",
+    "answer": "Yes, multi-level parking is available near the Main Building entrance, with a dedicated drop-off zone for Emergency and elderly patients.",
+    "keywords": "general"
+  },
+  {
+    "id": 20,
+    "category": "Discharge",
+    "question": "How does the discharge process work?",
+    "answer": "Your doctor issues a discharge summary, the Billing counter settles the final bill, and the nursing station completes discharge formalities before you leave the ward.",
+    "keywords": "discharge"
+  },
+  {
+    "id": 21,
+    "category": "Registration",
+    "question": "How do I register as a new patient?",
+    "answer": "Visit the Registration counter on the Ground Floor with a valid ID proof and address proof. A staff member will create your patient file and issue a Patient ID card.",
+    "keywords": "registration"
+  },
+  {
+    "id": 22,
+    "category": "Billing",
+    "question": "How can I get an itemized bill?",
+    "answer": "Submit an itemized bill request at the Billing counter (Ground Floor, Main Building) with your admission ID. Itemized bills are typically ready within 24 hours.",
+    "keywords": "billing"
+  },
+  {
+    "id": 23,
+    "category": "Insurance",
+    "question": "Which insurance providers are accepted?",
+    "answer": "Most major insurance providers are accepted through cashless and reimbursement claims. Please check with the Insurance Desk with your policy card for specific coverage.",
+    "keywords": "insurance"
+  },
+  {
+    "id": 24,
+    "category": "Admission",
+    "question": "What is required for hospital admission?",
+    "answer": "Bring your ID proof, insurance card (if applicable), and pay the admission deposit at the Admission counter. A bed will be allotted based on availability and doctor's advice.",
+    "keywords": "admission"
+  },
+  {
+    "id": 25,
+    "category": "Laboratory",
+    "question": "Where is the laboratory located?",
+    "answer": "The Laboratory is on the Ground Floor of the Diagnostics Building. Bring your doctor's test prescription and Patient ID card.",
+    "keywords": "laboratory"
+  },
+  {
+    "id": 26,
+    "category": "Pharmacy",
+    "question": "Where can I collect my medicines?",
+    "answer": "The Pharmacy is located on the Ground Floor of the Main Building, next to the OPD waiting area. Submit your doctor's prescription at the counter.",
+    "keywords": "pharmacy"
+  },
+  {
+    "id": 27,
+    "category": "Emergency",
+    "question": "What should I do in a medical emergency?",
+    "answer": "Go directly to the Emergency Department (Ground Floor, Emergency Block, red signage) or alert any staff member immediately. Emergency care is available 24x7.",
+    "keywords": "emergency"
+  },
+  {
+    "id": 28,
+    "category": "General",
+    "question": "What are the hospital's visiting hours?",
+    "answer": "General visiting hours are 11:00-13:00 and 17:00-19:00 daily. ICU visiting is restricted to immediate family with staff permission.",
+    "keywords": "general"
+  },
+  {
+    "id": 29,
+    "category": "General",
+    "question": "Is parking available?",
+    "answer": "Yes, multi-level parking is available near the Main Building entrance, with a dedicated drop-off zone for Emergency and elderly patients.",
+    "keywords": "general"
+  },
+  {
+    "id": 30,
+    "category": "Discharge",
+    "question": "How does the discharge process work?",
+    "answer": "Your doctor issues a discharge summary, the Billing counter settles the final bill, and the nursing station completes discharge formalities before you leave the ward.",
+    "keywords": "discharge"
+  },
+  {
+    "id": 31,
+    "category": "Registration",
+    "question": "How do I register as a new patient?",
+    "answer": "Visit the Registration counter on the Ground Floor with a valid ID proof and address proof. A staff member will create your patient file and issue a Patient ID card.",
+    "keywords": "registration"
+  },
+  {
+    "id": 32,
+    "category": "Billing",
+    "question": "How can I get an itemized bill?",
+    "answer": "Submit an itemized bill request at the Billing counter (Ground Floor, Main Building) with your admission ID. Itemized bills are typically ready within 24 hours.",
+    "keywords": "billing"
+  },
+  {
+    "id": 33,
+    "category": "Insurance",
+    "question": "Which insurance providers are accepted?",
+    "answer": "Most major insurance providers are accepted through cashless and reimbursement claims. Please check with the Insurance Desk with your policy card for specific coverage.",
+    "keywords": "insurance"
+  },
+  {
+    "id": 34,
+    "category": "Admission",
+    "question": "What is required for hospital admission?",
+    "answer": "Bring your ID proof, insurance card (if applicable), and pay the admission deposit at the Admission counter. A bed will be allotted based on availability and doctor's advice.",
+    "keywords": "admission"
+  },
+  {
+    "id": 35,
+    "category": "Laboratory",
+    "question": "Where is the laboratory located?",
+    "answer": "The Laboratory is on the Ground Floor of the Diagnostics Building. Bring your doctor's test prescription and Patient ID card.",
+    "keywords": "laboratory"
+  },
+  {
+    "id": 36,
+    "category": "Pharmacy",
+    "question": "Where can I collect my medicines?",
+    "answer": "The Pharmacy is located on the Ground Floor of the Main Building, next to the OPD waiting area. Submit your doctor's prescription at the counter.",
+    "keywords": "pharmacy"
+  },
+  {
+    "id": 37,
+    "category": "Emergency",
+    "question": "What should I do in a medical emergency?",
+    "answer": "Go directly to the Emergency Department (Ground Floor, Emergency Block, red signage) or alert any staff member immediately. Emergency care is available 24x7.",
+    "keywords": "emergency"
+  },
+  {
+    "id": 38,
+    "category": "General",
+    "question": "What are the hospital's visiting hours?",
+    "answer": "General visiting hours are 11:00-13:00 and 17:00-19:00 daily. ICU visiting is restricted to immediate family with staff permission.",
+    "keywords": "general"
+  },
+  {
+    "id": 39,
+    "category": "General",
+    "question": "Is parking available?",
+    "answer": "Yes, multi-level parking is available near the Main Building entrance, with a dedicated drop-off zone for Emergency and elderly patients.",
+    "keywords": "general"
+  },
+  {
+    "id": 40,
+    "category": "Discharge",
+    "question": "How does the discharge process work?",
+    "answer": "Your doctor issues a discharge summary, the Billing counter settles the final bill, and the nursing station completes discharge formalities before you leave the ward.",
+    "keywords": "discharge"
+  },
+  {
+    "id": 41,
+    "category": "Registration",
+    "question": "How do I register as a new patient?",
+    "answer": "Visit the Registration counter on the Ground Floor with a valid ID proof and address proof. A staff member will create your patient file and issue a Patient ID card.",
+    "keywords": "registration"
+  },
+  {
+    "id": 42,
+    "category": "Billing",
+    "question": "How can I get an itemized bill?",
+    "answer": "Submit an itemized bill request at the Billing counter (Ground Floor, Main Building) with your admission ID. Itemized bills are typically ready within 24 hours.",
+    "keywords": "billing"
+  },
+  {
+    "id": 43,
+    "category": "Insurance",
+    "question": "Which insurance providers are accepted?",
+    "answer": "Most major insurance providers are accepted through cashless and reimbursement claims. Please check with the Insurance Desk with your policy card for specific coverage.",
+    "keywords": "insurance"
+  },
+  {
+    "id": 44,
+    "category": "Admission",
+    "question": "What is required for hospital admission?",
+    "answer": "Bring your ID proof, insurance card (if applicable), and pay the admission deposit at the Admission counter. A bed will be allotted based on availability and doctor's advice.",
+    "keywords": "admission"
+  },
+  {
+    "id": 45,
+    "category": "Laboratory",
+    "question": "Where is the laboratory located?",
+    "answer": "The Laboratory is on the Ground Floor of the Diagnostics Building. Bring your doctor's test prescription and Patient ID card.",
+    "keywords": "laboratory"
+  },
+  {
+    "id": 46,
+    "category": "Pharmacy",
+    "question": "Where can I collect my medicines?",
+    "answer": "The Pharmacy is located on the Ground Floor of the Main Building, next to the OPD waiting area. Submit your doctor's prescription at the counter.",
+    "keywords": "pharmacy"
+  },
+  {
+    "id": 47,
+    "category": "Emergency",
+    "question": "What should I do in a medical emergency?",
+    "answer": "Go directly to the Emergency Department (Ground Floor, Emergency Block, red signage) or alert any staff member immediately. Emergency care is available 24x7.",
+    "keywords": "emergency"
+  },
+  {
+    "id": 48,
+    "category": "General",
+    "question": "What are the hospital's visiting hours?",
+    "answer": "General visiting hours are 11:00-13:00 and 17:00-19:00 daily. ICU visiting is restricted to immediate family with staff permission.",
+    "keywords": "general"
+  },
+  {
+    "id": 49,
+    "category": "General",
+    "question": "Is parking available?",
+    "answer": "Yes, multi-level parking is available near the Main Building entrance, with a dedicated drop-off zone for Emergency and elderly patients.",
+    "keywords": "general"
+  },
+  {
+    "id": 50,
+    "category": "Discharge",
+    "question": "How does the discharge process work?",
+    "answer": "Your doctor issues a discharge summary, the Billing counter settles the final bill, and the nursing station completes discharge formalities before you leave the ward.",
+    "keywords": "discharge"
+  },
+  {
+    "id": 51,
+    "category": "Registration",
+    "question": "How do I register as a new patient?",
+    "answer": "Visit the Registration counter on the Ground Floor with a valid ID proof and address proof. A staff member will create your patient file and issue a Patient ID card.",
+    "keywords": "registration"
+  },
+  {
+    "id": 52,
+    "category": "Billing",
+    "question": "How can I get an itemized bill?",
+    "answer": "Submit an itemized bill request at the Billing counter (Ground Floor, Main Building) with your admission ID. Itemized bills are typically ready within 24 hours.",
+    "keywords": "billing"
+  },
+  {
+    "id": 53,
+    "category": "Insurance",
+    "question": "Which insurance providers are accepted?",
+    "answer": "Most major insurance providers are accepted through cashless and reimbursement claims. Please check with the Insurance Desk with your policy card for specific coverage.",
+    "keywords": "insurance"
+  },
+  {
+    "id": 54,
+    "category": "Admission",
+    "question": "What is required for hospital admission?",
+    "answer": "Bring your ID proof, insurance card (if applicable), and pay the admission deposit at the Admission counter. A bed will be allotted based on availability and doctor's advice.",
+    "keywords": "admission"
+  },
+  {
+    "id": 55,
+    "category": "Laboratory",
+    "question": "Where is the laboratory located?",
+    "answer": "The Laboratory is on the Ground Floor of the Diagnostics Building. Bring your doctor's test prescription and Patient ID card.",
+    "keywords": "laboratory"
+  },
+  {
+    "id": 56,
+    "category": "Pharmacy",
+    "question": "Where can I collect my medicines?",
+    "answer": "The Pharmacy is located on the Ground Floor of the Main Building, next to the OPD waiting area. Submit your doctor's prescription at the counter.",
+    "keywords": "pharmacy"
+  },
+  {
+    "id": 57,
+    "category": "Emergency",
+    "question": "What should I do in a medical emergency?",
+    "answer": "Go directly to the Emergency Department (Ground Floor, Emergency Block, red signage) or alert any staff member immediately. Emergency care is available 24x7.",
+    "keywords": "emergency"
+  },
+  {
+    "id": 58,
+    "category": "General",
+    "question": "What are the hospital's visiting hours?",
+    "answer": "General visiting hours are 11:00-13:00 and 17:00-19:00 daily. ICU visiting is restricted to immediate family with staff permission.",
+    "keywords": "general"
+  },
+  {
+    "id": 59,
+    "category": "General",
+    "question": "Is parking available?",
+    "answer": "Yes, multi-level parking is available near the Main Building entrance, with a dedicated drop-off zone for Emergency and elderly patients.",
+    "keywords": "general"
+  },
+  {
+    "id": 60,
+    "category": "Discharge",
+    "question": "How does the discharge process work?",
+    "answer": "Your doctor issues a discharge summary, the Billing counter settles the final bill, and the nursing station completes discharge formalities before you leave the ward.",
+    "keywords": "discharge"
+  }
+]

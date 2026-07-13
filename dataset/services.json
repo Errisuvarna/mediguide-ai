@@ -1,0 +1,962 @@
+[
+  {
+    "id": 1,
+    "name": "OPD Consultation",
+    "department_id": 3,
+    "description": "OPD Consultation provided by the Orthopedics department.",
+    "fee": 550,
+    "location": "Main Building, Floor 2"
+  },
+  {
+    "id": 2,
+    "name": "General Checkup",
+    "department_id": 15,
+    "description": "General Checkup provided by the Nephrology department.",
+    "fee": 400,
+    "location": "Main Building, Floor 3"
+  },
+  {
+    "id": 3,
+    "name": "Follow-up Consultation",
+    "department_id": 17,
+    "description": "Follow-up Consultation provided by the Emergency department.",
+    "fee": 400,
+    "location": "Main Building, Floor 0"
+  },
+  {
+    "id": 4,
+    "name": "Blood Test - CBC",
+    "department_id": 4,
+    "description": "Blood Test - CBC provided by the Neurology department.",
+    "fee": 400,
+    "location": "Main Building, Floor 4"
+  },
+  {
+    "id": 5,
+    "name": "Blood Test - Lipid Profile",
+    "department_id": 17,
+    "description": "Blood Test - Lipid Profile provided by the Emergency department.",
+    "fee": 600,
+    "location": "Main Building, Floor 0"
+  },
+  {
+    "id": 6,
+    "name": "X-Ray",
+    "department_id": 20,
+    "description": "X-Ray provided by the Pharmacy department.",
+    "fee": 450,
+    "location": "Main Building, Floor 0"
+  },
+  {
+    "id": 7,
+    "name": "CT Scan",
+    "department_id": 17,
+    "description": "CT Scan provided by the Emergency department.",
+    "fee": 4500,
+    "location": "Main Building, Floor 0"
+  },
+  {
+    "id": 8,
+    "name": "MRI Scan",
+    "department_id": 15,
+    "description": "MRI Scan provided by the Nephrology department.",
+    "fee": 7450,
+    "location": "Main Building, Floor 3"
+  },
+  {
+    "id": 9,
+    "name": "Ultrasound",
+    "department_id": 2,
+    "description": "Ultrasound provided by the Cardiology department.",
+    "fee": 1250,
+    "location": "Main Building, Floor 3"
+  },
+  {
+    "id": 10,
+    "name": "ECG",
+    "department_id": 13,
+    "description": "ECG provided by the Dentistry department.",
+    "fee": 450,
+    "location": "Main Building, Floor 0"
+  },
+  {
+    "id": 11,
+    "name": "Echocardiogram",
+    "department_id": 4,
+    "description": "Echocardiogram provided by the Neurology department.",
+    "fee": 2050,
+    "location": "Main Building, Floor 4"
+  },
+  {
+    "id": 12,
+    "name": "Physiotherapy Session",
+    "department_id": 15,
+    "description": "Physiotherapy Session provided by the Nephrology department.",
+    "fee": 650,
+    "location": "Main Building, Floor 3"
+  },
+  {
+    "id": 13,
+    "name": "Minor Procedure",
+    "department_id": 3,
+    "description": "Minor Procedure provided by the Orthopedics department.",
+    "fee": 2500,
+    "location": "Main Building, Floor 2"
+  },
+  {
+    "id": 14,
+    "name": "Vaccination",
+    "department_id": 20,
+    "description": "Vaccination provided by the Pharmacy department.",
+    "fee": 800,
+    "location": "Main Building, Floor 0"
+  },
+  {
+    "id": 15,
+    "name": "Health Package - Basic",
+    "department_id": 3,
+    "description": "Health Package - Basic provided by the Orthopedics department.",
+    "fee": 2500,
+    "location": "Main Building, Floor 2"
+  },
+  {
+    "id": 16,
+    "name": "Health Package - Executive",
+    "department_id": 9,
+    "description": "Health Package - Executive provided by the Gynecology department.",
+    "fee": 6100,
+    "location": "Main Building, Floor 2"
+  },
+  {
+    "id": 17,
+    "name": "Dialysis Session",
+    "department_id": 19,
+    "description": "Dialysis Session provided by the Laboratory department.",
+    "fee": 3100,
+    "location": "Diagnostics Building, Floor 0"
+  },
+  {
+    "id": 18,
+    "name": "Endoscopy",
+    "department_id": 11,
+    "description": "Endoscopy provided by the ENT department.",
+    "fee": 3550,
+    "location": "Main Building, Floor 1"
+  },
+  {
+    "id": 19,
+    "name": "Biopsy",
+    "department_id": 20,
+    "description": "Biopsy provided by the Pharmacy department.",
+    "fee": 5100,
+    "location": "Main Building, Floor 0"
+  },
+  {
+    "id": 20,
+    "name": "Dental Cleaning",
+    "department_id": 10,
+    "description": "Dental Cleaning provided by the Dermatology department.",
+    "fee": 1050,
+    "location": "Main Building, Floor 1"
+  },
+  {
+    "id": 21,
+    "name": "Eye Test",
+    "department_id": 17,
+    "description": "Eye Test provided by the Emergency department.",
+    "fee": 400,
+    "location": "Main Building, Floor 0"
+  },
+  {
+    "id": 22,
+    "name": "Hearing Test",
+    "department_id": 14,
+    "description": "Hearing Test provided by the Psychiatry department.",
+    "fee": 450,
+    "location": "Main Building, Floor 4"
+  },
+  {
+    "id": 23,
+    "name": "Pregnancy Ultrasound",
+    "department_id": 4,
+    "description": "Pregnancy Ultrasound provided by the Neurology department.",
+    "fee": 1600,
+    "location": "Main Building, Floor 4"
+  },
+  {
+    "id": 24,
+    "name": "Chemotherapy Session",
+    "department_id": 7,
+    "description": "Chemotherapy Session provided by the Oncology department.",
+    "fee": 15050,
+    "location": "Cancer Care Building, Floor 5"
+  },
+  {
+    "id": 25,
+    "name": "Emergency Consultation",
+    "department_id": 15,
+    "description": "Emergency Consultation provided by the Nephrology department.",
+    "fee": 1000,
+    "location": "Main Building, Floor 3"
+  },
+  {
+    "id": 26,
+    "name": "OPD Consultation",
+    "department_id": 14,
+    "description": "OPD Consultation provided by the Psychiatry department.",
+    "fee": 500,
+    "location": "Main Building, Floor 4"
+  },
+  {
+    "id": 27,
+    "name": "General Checkup",
+    "department_id": 15,
+    "description": "General Checkup provided by the Nephrology department.",
+    "fee": 450,
+    "location": "Main Building, Floor 3"
+  },
+  {
+    "id": 28,
+    "name": "Follow-up Consultation",
+    "department_id": 14,
+    "description": "Follow-up Consultation provided by the Psychiatry department.",
+    "fee": 250,
+    "location": "Main Building, Floor 4"
+  },
+  {
+    "id": 29,
+    "name": "Blood Test - CBC",
+    "department_id": 11,
+    "description": "Blood Test - CBC provided by the ENT department.",
+    "fee": 400,
+    "location": "Main Building, Floor 1"
+  },
+  {
+    "id": 30,
+    "name": "Blood Test - Lipid Profile",
+    "department_id": 11,
+    "description": "Blood Test - Lipid Profile provided by the ENT department.",
+    "fee": 600,
+    "location": "Main Building, Floor 1"
+  },
+  {
+    "id": 31,
+    "name": "X-Ray",
+    "department_id": 12,
+    "description": "X-Ray provided by the Ophthalmology department.",
+    "fee": 500,
+    "location": "Main Building, Floor 1"
+  },
+  {
+    "id": 32,
+    "name": "CT Scan",
+    "department_id": 16,
+    "description": "CT Scan provided by the Urology department.",
+    "fee": 4450,
+    "location": "Main Building, Floor 3"
+  },
+  {
+    "id": 33,
+    "name": "MRI Scan",
+    "department_id": 3,
+    "description": "MRI Scan provided by the Orthopedics department.",
+    "fee": 7450,
+    "location": "Main Building, Floor 2"
+  },
+  {
+    "id": 34,
+    "name": "Ultrasound",
+    "department_id": 3,
+    "description": "Ultrasound provided by the Orthopedics department.",
+    "fee": 1250,
+    "location": "Main Building, Floor 2"
+  },
+  {
+    "id": 35,
+    "name": "ECG",
+    "department_id": 4,
+    "description": "ECG provided by the Neurology department.",
+    "fee": 400,
+    "location": "Main Building, Floor 4"
+  },
+  {
+    "id": 36,
+    "name": "Echocardiogram",
+    "department_id": 5,
+    "description": "Echocardiogram provided by the Gastroenterology department.",
+    "fee": 2100,
+    "location": "Main Building, Floor 2"
+  },
+  {
+    "id": 37,
+    "name": "Physiotherapy Session",
+    "department_id": 2,
+    "description": "Physiotherapy Session provided by the Cardiology department.",
+    "fee": 800,
+    "location": "Main Building, Floor 3"
+  },
+  {
+    "id": 38,
+    "name": "Minor Procedure",
+    "department_id": 18,
+    "description": "Minor Procedure provided by the Radiology & Imaging department.",
+    "fee": 2600,
+    "location": "Diagnostics Building, Floor 0"
+  },
+  {
+    "id": 39,
+    "name": "Vaccination",
+    "department_id": 11,
+    "description": "Vaccination provided by the ENT department.",
+    "fee": 750,
+    "location": "Main Building, Floor 1"
+  },
+  {
+    "id": 40,
+    "name": "Health Package - Basic",
+    "department_id": 14,
+    "description": "Health Package - Basic provided by the Psychiatry department.",
+    "fee": 2500,
+    "location": "Main Building, Floor 4"
+  },
+  {
+    "id": 41,
+    "name": "Health Package - Executive",
+    "department_id": 14,
+    "description": "Health Package - Executive provided by the Psychiatry department.",
+    "fee": 5950,
+    "location": "Main Building, Floor 4"
+  },
+  {
+    "id": 42,
+    "name": "Dialysis Session",
+    "department_id": 10,
+    "description": "Dialysis Session provided by the Dermatology department.",
+    "fee": 3100,
+    "location": "Main Building, Floor 1"
+  },
+  {
+    "id": 43,
+    "name": "Endoscopy",
+    "department_id": 10,
+    "description": "Endoscopy provided by the Dermatology department.",
+    "fee": 3500,
+    "location": "Main Building, Floor 1"
+  },
+  {
+    "id": 44,
+    "name": "Biopsy",
+    "department_id": 4,
+    "description": "Biopsy provided by the Neurology department.",
+    "fee": 5100,
+    "location": "Main Building, Floor 4"
+  },
+  {
+    "id": 45,
+    "name": "Dental Cleaning",
+    "department_id": 17,
+    "description": "Dental Cleaning provided by the Emergency department.",
+    "fee": 1000,
+    "location": "Main Building, Floor 0"
+  },
+  {
+    "id": 46,
+    "name": "Eye Test",
+    "department_id": 5,
+    "description": "Eye Test provided by the Gastroenterology department.",
+    "fee": 350,
+    "location": "Main Building, Floor 2"
+  },
+  {
+    "id": 47,
+    "name": "Hearing Test",
+    "department_id": 8,
+    "description": "Hearing Test provided by the Pediatrics department.",
+    "fee": 450,
+    "location": "Main Building, Floor 1"
+  },
+  {
+    "id": 48,
+    "name": "Pregnancy Ultrasound",
+    "department_id": 12,
+    "description": "Pregnancy Ultrasound provided by the Ophthalmology department.",
+    "fee": 1600,
+    "location": "Main Building, Floor 1"
+  },
+  {
+    "id": 49,
+    "name": "Chemotherapy Session",
+    "department_id": 12,
+    "description": "Chemotherapy Session provided by the Ophthalmology department.",
+    "fee": 14950,
+    "location": "Main Building, Floor 1"
+  },
+  {
+    "id": 50,
+    "name": "Emergency Consultation",
+    "department_id": 9,
+    "description": "Emergency Consultation provided by the Gynecology department.",
+    "fee": 1100,
+    "location": "Main Building, Floor 2"
+  },
+  {
+    "id": 51,
+    "name": "OPD Consultation",
+    "department_id": 8,
+    "description": "OPD Consultation provided by the Pediatrics department.",
+    "fee": 550,
+    "location": "Main Building, Floor 1"
+  },
+  {
+    "id": 52,
+    "name": "General Checkup",
+    "department_id": 18,
+    "description": "General Checkup provided by the Radiology & Imaging department.",
+    "fee": 500,
+    "location": "Diagnostics Building, Floor 0"
+  },
+  {
+    "id": 53,
+    "name": "Follow-up Consultation",
+    "department_id": 20,
+    "description": "Follow-up Consultation provided by the Pharmacy department.",
+    "fee": 400,
+    "location": "Main Building, Floor 0"
+  },
+  {
+    "id": 54,
+    "name": "Blood Test - CBC",
+    "department_id": 1,
+    "description": "Blood Test - CBC provided by the General Medicine department.",
+    "fee": 450,
+    "location": "Main Building, Floor 1"
+  },
+  {
+    "id": 55,
+    "name": "Blood Test - Lipid Profile",
+    "department_id": 9,
+    "description": "Blood Test - Lipid Profile provided by the Gynecology department.",
+    "fee": 550,
+    "location": "Main Building, Floor 2"
+  },
+  {
+    "id": 56,
+    "name": "X-Ray",
+    "department_id": 6,
+    "description": "X-Ray provided by the Pulmonology department.",
+    "fee": 500,
+    "location": "Main Building, Floor 3"
+  },
+  {
+    "id": 57,
+    "name": "CT Scan",
+    "department_id": 10,
+    "description": "CT Scan provided by the Dermatology department.",
+    "fee": 4500,
+    "location": "Main Building, Floor 1"
+  },
+  {
+    "id": 58,
+    "name": "MRI Scan",
+    "department_id": 12,
+    "description": "MRI Scan provided by the Ophthalmology department.",
+    "fee": 7450,
+    "location": "Main Building, Floor 1"
+  },
+  {
+    "id": 59,
+    "name": "Ultrasound",
+    "department_id": 6,
+    "description": "Ultrasound provided by the Pulmonology department.",
+    "fee": 1200,
+    "location": "Main Building, Floor 3"
+  },
+  {
+    "id": 60,
+    "name": "ECG",
+    "department_id": 19,
+    "description": "ECG provided by the Laboratory department.",
+    "fee": 450,
+    "location": "Diagnostics Building, Floor 0"
+  },
+  {
+    "id": 61,
+    "name": "Echocardiogram",
+    "department_id": 3,
+    "description": "Echocardiogram provided by the Orthopedics department.",
+    "fee": 2000,
+    "location": "Main Building, Floor 2"
+  },
+  {
+    "id": 62,
+    "name": "Physiotherapy Session",
+    "department_id": 1,
+    "description": "Physiotherapy Session provided by the General Medicine department.",
+    "fee": 650,
+    "location": "Main Building, Floor 1"
+  },
+  {
+    "id": 63,
+    "name": "Minor Procedure",
+    "department_id": 17,
+    "description": "Minor Procedure provided by the Emergency department.",
+    "fee": 2500,
+    "location": "Main Building, Floor 0"
+  },
+  {
+    "id": 64,
+    "name": "Vaccination",
+    "department_id": 13,
+    "description": "Vaccination provided by the Dentistry department.",
+    "fee": 850,
+    "location": "Main Building, Floor 0"
+  },
+  {
+    "id": 65,
+    "name": "Health Package - Basic",
+    "department_id": 15,
+    "description": "Health Package - Basic provided by the Nephrology department.",
+    "fee": 2500,
+    "location": "Main Building, Floor 3"
+  },
+  {
+    "id": 66,
+    "name": "Health Package - Executive",
+    "department_id": 6,
+    "description": "Health Package - Executive provided by the Pulmonology department.",
+    "fee": 6000,
+    "location": "Main Building, Floor 3"
+  },
+  {
+    "id": 67,
+    "name": "Dialysis Session",
+    "department_id": 10,
+    "description": "Dialysis Session provided by the Dermatology department.",
+    "fee": 3000,
+    "location": "Main Building, Floor 1"
+  },
+  {
+    "id": 68,
+    "name": "Endoscopy",
+    "department_id": 19,
+    "description": "Endoscopy provided by the Laboratory department.",
+    "fee": 3600,
+    "location": "Diagnostics Building, Floor 0"
+  },
+  {
+    "id": 69,
+    "name": "Biopsy",
+    "department_id": 3,
+    "description": "Biopsy provided by the Orthopedics department.",
+    "fee": 4950,
+    "location": "Main Building, Floor 2"
+  },
+  {
+    "id": 70,
+    "name": "Dental Cleaning",
+    "department_id": 5,
+    "description": "Dental Cleaning provided by the Gastroenterology department.",
+    "fee": 1000,
+    "location": "Main Building, Floor 2"
+  },
+  {
+    "id": 71,
+    "name": "Eye Test",
+    "department_id": 20,
+    "description": "Eye Test provided by the Pharmacy department.",
+    "fee": 250,
+    "location": "Main Building, Floor 0"
+  },
+  {
+    "id": 72,
+    "name": "Hearing Test",
+    "department_id": 3,
+    "description": "Hearing Test provided by the Orthopedics department.",
+    "fee": 500,
+    "location": "Main Building, Floor 2"
+  },
+  {
+    "id": 73,
+    "name": "Pregnancy Ultrasound",
+    "department_id": 15,
+    "description": "Pregnancy Ultrasound provided by the Nephrology department.",
+    "fee": 1550,
+    "location": "Main Building, Floor 3"
+  },
+  {
+    "id": 74,
+    "name": "Chemotherapy Session",
+    "department_id": 16,
+    "description": "Chemotherapy Session provided by the Urology department.",
+    "fee": 15100,
+    "location": "Main Building, Floor 3"
+  },
+  {
+    "id": 75,
+    "name": "Emergency Consultation",
+    "department_id": 15,
+    "description": "Emergency Consultation provided by the Nephrology department.",
+    "fee": 1050,
+    "location": "Main Building, Floor 3"
+  },
+  {
+    "id": 76,
+    "name": "OPD Consultation",
+    "department_id": 9,
+    "description": "OPD Consultation provided by the Gynecology department.",
+    "fee": 500,
+    "location": "Main Building, Floor 2"
+  },
+  {
+    "id": 77,
+    "name": "General Checkup",
+    "department_id": 17,
+    "description": "General Checkup provided by the Emergency department.",
+    "fee": 350,
+    "location": "Main Building, Floor 0"
+  },
+  {
+    "id": 78,
+    "name": "Follow-up Consultation",
+    "department_id": 12,
+    "description": "Follow-up Consultation provided by the Ophthalmology department.",
+    "fee": 350,
+    "location": "Main Building, Floor 1"
+  },
+  {
+    "id": 79,
+    "name": "Blood Test - CBC",
+    "department_id": 4,
+    "description": "Blood Test - CBC provided by the Neurology department.",
+    "fee": 350,
+    "location": "Main Building, Floor 4"
+  },
+  {
+    "id": 80,
+    "name": "Blood Test - Lipid Profile",
+    "department_id": 19,
+    "description": "Blood Test - Lipid Profile provided by the Laboratory department.",
+    "fee": 650,
+    "location": "Diagnostics Building, Floor 0"
+  },
+  {
+    "id": 81,
+    "name": "X-Ray",
+    "department_id": 17,
+    "description": "X-Ray provided by the Emergency department.",
+    "fee": 500,
+    "location": "Main Building, Floor 0"
+  },
+  {
+    "id": 82,
+    "name": "CT Scan",
+    "department_id": 2,
+    "description": "CT Scan provided by the Cardiology department.",
+    "fee": 4500,
+    "location": "Main Building, Floor 3"
+  },
+  {
+    "id": 83,
+    "name": "MRI Scan",
+    "department_id": 13,
+    "description": "MRI Scan provided by the Dentistry department.",
+    "fee": 7600,
+    "location": "Main Building, Floor 0"
+  },
+  {
+    "id": 84,
+    "name": "Ultrasound",
+    "department_id": 2,
+    "description": "Ultrasound provided by the Cardiology department.",
+    "fee": 1150,
+    "location": "Main Building, Floor 3"
+  },
+  {
+    "id": 85,
+    "name": "ECG",
+    "department_id": 7,
+    "description": "ECG provided by the Oncology department.",
+    "fee": 400,
+    "location": "Cancer Care Building, Floor 5"
+  },
+  {
+    "id": 86,
+    "name": "Echocardiogram",
+    "department_id": 7,
+    "description": "Echocardiogram provided by the Oncology department.",
+    "fee": 2000,
+    "location": "Cancer Care Building, Floor 5"
+  },
+  {
+    "id": 87,
+    "name": "Physiotherapy Session",
+    "department_id": 9,
+    "description": "Physiotherapy Session provided by the Gynecology department.",
+    "fee": 700,
+    "location": "Main Building, Floor 2"
+  },
+  {
+    "id": 88,
+    "name": "Minor Procedure",
+    "department_id": 11,
+    "description": "Minor Procedure provided by the ENT department.",
+    "fee": 2450,
+    "location": "Main Building, Floor 1"
+  },
+  {
+    "id": 89,
+    "name": "Vaccination",
+    "department_id": 1,
+    "description": "Vaccination provided by the General Medicine department.",
+    "fee": 850,
+    "location": "Main Building, Floor 1"
+  },
+  {
+    "id": 90,
+    "name": "Health Package - Basic",
+    "department_id": 14,
+    "description": "Health Package - Basic provided by the Psychiatry department.",
+    "fee": 2500,
+    "location": "Main Building, Floor 4"
+  },
+  {
+    "id": 91,
+    "name": "Health Package - Executive",
+    "department_id": 5,
+    "description": "Health Package - Executive provided by the Gastroenterology department.",
+    "fee": 6050,
+    "location": "Main Building, Floor 2"
+  },
+  {
+    "id": 92,
+    "name": "Dialysis Session",
+    "department_id": 18,
+    "description": "Dialysis Session provided by the Radiology & Imaging department.",
+    "fee": 3000,
+    "location": "Diagnostics Building, Floor 0"
+  },
+  {
+    "id": 93,
+    "name": "Endoscopy",
+    "department_id": 17,
+    "description": "Endoscopy provided by the Emergency department.",
+    "fee": 3600,
+    "location": "Main Building, Floor 0"
+  },
+  {
+    "id": 94,
+    "name": "Biopsy",
+    "department_id": 12,
+    "description": "Biopsy provided by the Ophthalmology department.",
+    "fee": 4950,
+    "location": "Main Building, Floor 1"
+  },
+  {
+    "id": 95,
+    "name": "Dental Cleaning",
+    "department_id": 13,
+    "description": "Dental Cleaning provided by the Dentistry department.",
+    "fee": 950,
+    "location": "Main Building, Floor 0"
+  },
+  {
+    "id": 96,
+    "name": "Eye Test",
+    "department_id": 14,
+    "description": "Eye Test provided by the Psychiatry department.",
+    "fee": 250,
+    "location": "Main Building, Floor 4"
+  },
+  {
+    "id": 97,
+    "name": "Hearing Test",
+    "department_id": 15,
+    "description": "Hearing Test provided by the Nephrology department.",
+    "fee": 450,
+    "location": "Main Building, Floor 3"
+  },
+  {
+    "id": 98,
+    "name": "Pregnancy Ultrasound",
+    "department_id": 11,
+    "description": "Pregnancy Ultrasound provided by the ENT department.",
+    "fee": 1600,
+    "location": "Main Building, Floor 1"
+  },
+  {
+    "id": 99,
+    "name": "Chemotherapy Session",
+    "department_id": 14,
+    "description": "Chemotherapy Session provided by the Psychiatry department.",
+    "fee": 15100,
+    "location": "Main Building, Floor 4"
+  },
+  {
+    "id": 100,
+    "name": "Emergency Consultation",
+    "department_id": 13,
+    "description": "Emergency Consultation provided by the Dentistry department.",
+    "fee": 1050,
+    "location": "Main Building, Floor 0"
+  },
+  {
+    "id": 101,
+    "name": "OPD Consultation",
+    "department_id": 10,
+    "description": "OPD Consultation provided by the Dermatology department.",
+    "fee": 450,
+    "location": "Main Building, Floor 1"
+  },
+  {
+    "id": 102,
+    "name": "General Checkup",
+    "department_id": 13,
+    "description": "General Checkup provided by the Dentistry department.",
+    "fee": 350,
+    "location": "Main Building, Floor 0"
+  },
+  {
+    "id": 103,
+    "name": "Follow-up Consultation",
+    "department_id": 11,
+    "description": "Follow-up Consultation provided by the ENT department.",
+    "fee": 300,
+    "location": "Main Building, Floor 1"
+  },
+  {
+    "id": 104,
+    "name": "Blood Test - CBC",
+    "department_id": 20,
+    "description": "Blood Test - CBC provided by the Pharmacy department.",
+    "fee": 400,
+    "location": "Main Building, Floor 0"
+  },
+  {
+    "id": 105,
+    "name": "Blood Test - Lipid Profile",
+    "department_id": 12,
+    "description": "Blood Test - Lipid Profile provided by the Ophthalmology department.",
+    "fee": 550,
+    "location": "Main Building, Floor 1"
+  },
+  {
+    "id": 106,
+    "name": "X-Ray",
+    "department_id": 14,
+    "description": "X-Ray provided by the Psychiatry department.",
+    "fee": 450,
+    "location": "Main Building, Floor 4"
+  },
+  {
+    "id": 107,
+    "name": "CT Scan",
+    "department_id": 8,
+    "description": "CT Scan provided by the Pediatrics department.",
+    "fee": 4550,
+    "location": "Main Building, Floor 1"
+  },
+  {
+    "id": 108,
+    "name": "MRI Scan",
+    "department_id": 19,
+    "description": "MRI Scan provided by the Laboratory department.",
+    "fee": 7550,
+    "location": "Diagnostics Building, Floor 0"
+  },
+  {
+    "id": 109,
+    "name": "Ultrasound",
+    "department_id": 17,
+    "description": "Ultrasound provided by the Emergency department.",
+    "fee": 1150,
+    "location": "Main Building, Floor 0"
+  },
+  {
+    "id": 110,
+    "name": "ECG",
+    "department_id": 13,
+    "description": "ECG provided by the Dentistry department.",
+    "fee": 400,
+    "location": "Main Building, Floor 0"
+  },
+  {
+    "id": 111,
+    "name": "Echocardiogram",
+    "department_id": 11,
+    "description": "Echocardiogram provided by the ENT department.",
+    "fee": 2000,
+    "location": "Main Building, Floor 1"
+  },
+  {
+    "id": 112,
+    "name": "Physiotherapy Session",
+    "department_id": 11,
+    "description": "Physiotherapy Session provided by the ENT department.",
+    "fee": 700,
+    "location": "Main Building, Floor 1"
+  },
+  {
+    "id": 113,
+    "name": "Minor Procedure",
+    "department_id": 3,
+    "description": "Minor Procedure provided by the Orthopedics department.",
+    "fee": 2600,
+    "location": "Main Building, Floor 2"
+  },
+  {
+    "id": 114,
+    "name": "Vaccination",
+    "department_id": 4,
+    "description": "Vaccination provided by the Neurology department.",
+    "fee": 900,
+    "location": "Main Building, Floor 4"
+  },
+  {
+    "id": 115,
+    "name": "Health Package - Basic",
+    "department_id": 17,
+    "description": "Health Package - Basic provided by the Emergency department.",
+    "fee": 2500,
+    "location": "Main Building, Floor 0"
+  },
+  {
+    "id": 116,
+    "name": "Health Package - Executive",
+    "department_id": 12,
+    "description": "Health Package - Executive provided by the Ophthalmology department.",
+    "fee": 6000,
+    "location": "Main Building, Floor 1"
+  },
+  {
+    "id": 117,
+    "name": "Dialysis Session",
+    "department_id": 5,
+    "description": "Dialysis Session provided by the Gastroenterology department.",
+    "fee": 3000,
+    "location": "Main Building, Floor 2"
+  },
+  {
+    "id": 118,
+    "name": "Endoscopy",
+    "department_id": 4,
+    "description": "Endoscopy provided by the Neurology department.",
+    "fee": 3500,
+    "location": "Main Building, Floor 4"
+  },
+  {
+    "id": 119,
+    "name": "Biopsy",
+    "department_id": 9,
+    "description": "Biopsy provided by the Gynecology department.",
+    "fee": 5000,
+    "location": "Main Building, Floor 2"
+  },
+  {
+    "id": 120,
+    "name": "Dental Cleaning",
+    "department_id": 6,
+    "description": "Dental Cleaning provided by the Pulmonology department.",
+    "fee": 1100,
+    "location": "Main Building, Floor 3"
+  }
+]

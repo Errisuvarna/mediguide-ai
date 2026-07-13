@@ -1,0 +1,141 @@
+id,full_name,department_id,designation,qualification,consultation_fee,room_number,available_days,available_time,experience_years
+1,Dr. Anita Menon,7,Associate Professor,"MBBS, DNB",600,526,"Mon,Wed,Fri",10:00-14:00,24
+2,Dr. Suresh Naidu,14,Senior Consultant,"MBBS, MS",1500,411,"Mon,Wed,Fri",09:00-13:00,14
+3,Dr. Ramesh Chatterjee,4,Head of Department,"MBBS, DM",1500,402,"Mon,Tue,Wed,Thu,Fri",09:00-17:00,5
+4,Dr. Reyansh Patel,13,Assistant Professor,MBBS,1000,029,Mon-Fri,09:00-17:00,8
+5,Dr. Aditya Menon,3,Assistant Professor,"MBBS, MD",1500,208,"Mon,Wed,Fri",16:00-20:00,10
+6,Dr. Lakshmi Iyer,15,Assistant Professor,"MBBS, DM",500,322,Mon-Fri,09:00-13:00,21
+7,Dr. Karthik Iyer,6,Associate Professor,"MBBS, MCh",600,330,"Tue,Thu",10:00-14:00,23
+8,Dr. Vihaan Menon,11,Consultant,"MBBS, DM",800,109,"Mon,Wed,Fri",10:00-14:00,20
+9,Dr. Meera Kumar,11,Associate Professor,MBBS,800,105,Mon-Fri,10:00-14:00,9
+10,Dr. Sanjay Krishnan,18,Associate Professor,"MBBS, DNB",800,012,"Tue,Thu,Sat",10:00-14:00,18
+11,Dr. Reyansh Verma,16,Consultant,"MBBS, MS",1200,306,"Mon,Tue,Wed,Thu,Fri",09:00-17:00,4
+12,Dr. Padma Bhat,13,Associate Professor,"MBBS, DNB",600,018,"Mon,Wed,Fri",09:00-13:00,23
+13,Dr. Deepak Kapoor,18,Consultant,"MBBS, DM",800,006,"Mon,Tue,Wed,Thu,Fri",09:00-13:00,25
+14,Dr. Sneha Singh,9,Consultant,MBBS,600,227,"Tue,Thu",09:00-17:00,8
+15,Dr. Lakshmi Iyer,5,Head of Department,"MBBS, DNB",300,220,Mon-Fri,16:00-20:00,2
+16,Dr. Lakshmi Pillai,4,Senior Consultant,"MBBS, MD",500,429,"Tue,Thu",09:00-13:00,4
+17,Dr. Arjun Patel,16,Senior Consultant,"MBBS, MS",1200,316,"Tue,Thu",10:00-14:00,10
+18,Dr. Vijay Gupta,17,Head of Department,MBBS,1200,007,Mon-Fri,16:00-20:00,23
+19,Dr. Manoj Singh,12,Associate Professor,"MBBS, MD",500,108,"Mon,Wed,Fri",14:00-18:00,2
+20,Dr. Rohan Krishnan,19,Senior Consultant,"MBBS, MD",300,023,"Mon,Wed,Fri",10:00-14:00,4
+21,Dr. Suresh Rao,2,Head of Department,"MBBS, MS",600,322,"Mon,Tue,Wed,Thu,Fri",10:00-14:00,19
+22,Dr. Kiran Menon,5,Associate Professor,"MBBS, MCh",500,204,"Mon,Wed,Fri",16:00-20:00,13
+23,Dr. Anita Joshi,14,Resident Doctor,"MBBS, MD",1200,421,"Mon,Wed,Fri",09:00-13:00,14
+24,Dr. Ishaan Menon,11,Senior Consultant,"MBBS, MS",1000,115,"Tue,Thu,Sat",16:00-20:00,7
+25,Dr. Sunil Menon,9,Consultant,"MBBS, MCh",1500,228,"Tue,Thu",09:00-13:00,3
+26,Dr. Aarav Rao,18,Senior Consultant,"MBBS, MS",800,016,"Mon,Tue,Wed,Thu,Fri",10:00-14:00,29
+27,Dr. Vihaan Iyer,13,Associate Professor,"MBBS, MD",800,009,"Mon,Tue,Wed,Thu,Fri",14:00-18:00,15
+28,Dr. Pooja Nair,18,Senior Consultant,"MBBS, DM",500,002,"Tue,Thu",09:00-17:00,3
+29,Dr. Vihaan Verma,11,Head of Department,"MBBS, MCh",1000,130,"Tue,Thu",10:00-14:00,3
+30,Dr. Reyansh Iyer,17,Consultant,"MBBS, DNB",300,022,"Tue,Thu,Sat",16:00-20:00,5
+31,Dr. Karthik Krishnan,19,Head of Department,"MBBS, MD",1000,003,"Mon,Tue,Wed,Thu,Fri",09:00-17:00,20
+32,Dr. Rahul Naidu,17,Senior Consultant,MBBS,1200,011,"Tue,Thu,Sat",14:00-18:00,14
+33,Dr. Neha Joshi,5,Assistant Professor,"MBBS, MD",300,215,"Tue,Thu",09:00-17:00,5
+34,Dr. Meera Singh,3,Assistant Professor,"MBBS, MS",600,229,"Mon,Wed,Fri",10:00-14:00,13
+35,Dr. Priya Joshi,10,Head of Department,MBBS,600,120,"Tue,Thu",09:00-13:00,23
+36,Dr. Neha Reddy,18,Senior Consultant,"MBBS, DM",300,029,"Mon,Wed,Fri",09:00-17:00,6
+37,Dr. Anjali Bhat,9,Senior Consultant,MBBS,600,207,Mon-Fri,09:00-17:00,17
+38,Dr. Vihaan Rao,9,Resident Doctor,"MBBS, MCh",1500,209,"Mon,Wed,Fri",09:00-13:00,12
+39,Dr. Sanjay Iyer,5,Resident Doctor,"MBBS, MCh",1000,223,"Mon,Tue,Wed,Thu,Fri",09:00-17:00,2
+40,Dr. Arjun Nair,4,Head of Department,"MBBS, MD",1500,412,"Tue,Thu",09:00-17:00,6
+41,Dr. Ananya Verma,14,Assistant Professor,"MBBS, DM",1500,428,"Mon,Wed,Fri",14:00-18:00,8
+42,Dr. Ishaan Chatterjee,8,Head of Department,"MBBS, MCh",1000,124,"Tue,Thu,Sat",10:00-14:00,29
+43,Dr. Sneha Das,6,Consultant,"MBBS, MS",1200,330,Mon-Fri,16:00-20:00,27
+44,Dr. Deepak Iyer,8,Resident Doctor,"MBBS, MD",800,128,"Mon,Wed,Fri",16:00-20:00,9
+45,Dr. Sunil Chatterjee,7,Assistant Professor,"MBBS, MS",500,501,"Tue,Thu,Sat",16:00-20:00,12
+46,Dr. Arjun Naidu,9,Assistant Professor,MBBS,1000,213,"Tue,Thu",14:00-18:00,2
+47,Dr. Sanjay Iyer,4,Head of Department,"MBBS, DM",300,404,"Tue,Thu",16:00-20:00,13
+48,Dr. Vijay Bhat,11,Head of Department,"MBBS, MD",800,129,"Tue,Thu",10:00-14:00,10
+49,Dr. Vijay Sharma,2,Head of Department,"MBBS, DNB",1200,324,"Tue,Thu,Sat",14:00-18:00,15
+50,Dr. Suresh Bhat,3,Assistant Professor,MBBS,1500,204,Mon-Fri,09:00-17:00,11
+51,Dr. Rahul Mukherjee,14,Resident Doctor,"MBBS, DM",1000,405,"Tue,Thu,Sat",16:00-20:00,23
+52,Dr. Sneha Bhat,13,Head of Department,"MBBS, DM",800,018,"Mon,Wed,Fri",14:00-18:00,11
+53,Dr. Vijay Krishnan,7,Head of Department,MBBS,600,515,"Mon,Tue,Wed,Thu,Fri",16:00-20:00,23
+54,Dr. Kiran Iyer,7,Resident Doctor,"MBBS, MD",600,517,"Tue,Thu",14:00-18:00,4
+55,Dr. Neha Menon,8,Senior Consultant,"MBBS, MS",300,102,"Tue,Thu,Sat",16:00-20:00,21
+56,Dr. Sunil Das,3,Resident Doctor,"MBBS, DNB",500,223,"Mon,Tue,Wed,Thu,Fri",16:00-20:00,14
+57,Dr. Diya Sharma,8,Consultant,"MBBS, MCh",500,106,"Tue,Thu",16:00-20:00,3
+58,Dr. Karthik Reddy,18,Associate Professor,"MBBS, MS",1500,015,"Tue,Thu",09:00-17:00,21
+59,Dr. Manoj Bhat,11,Resident Doctor,"MBBS, DNB",800,127,"Tue,Thu",16:00-20:00,30
+60,Dr. Kiran Joshi,6,Assistant Professor,"MBBS, MS",1500,321,Mon-Fri,09:00-17:00,17
+61,Dr. Deepak Joshi,8,Consultant,MBBS,600,108,Mon-Fri,14:00-18:00,12
+62,Dr. Reyansh Nair,18,Senior Consultant,"MBBS, MS",800,023,"Tue,Thu,Sat",10:00-14:00,4
+63,Dr. Anita Kapoor,14,Head of Department,"MBBS, MCh",800,402,"Tue,Thu,Sat",16:00-20:00,14
+64,Dr. Vivaan Krishnan,19,Associate Professor,"MBBS, MCh",300,012,Mon-Fri,16:00-20:00,29
+65,Dr. Rohan Kumar,14,Senior Consultant,"MBBS, DM",800,416,"Mon,Wed,Fri",16:00-20:00,12
+66,Dr. Priya Joshi,13,Senior Consultant,"MBBS, DNB",1000,001,"Mon,Tue,Wed,Thu,Fri",09:00-17:00,20
+67,Dr. Reyansh Das,1,Senior Consultant,"MBBS, MCh",500,102,Mon-Fri,16:00-20:00,12
+68,Dr. Sunil Kapoor,7,Assistant Professor,"MBBS, MCh",600,525,"Mon,Tue,Wed,Thu,Fri",14:00-18:00,28
+69,Dr. Kiran Sharma,3,Resident Doctor,"MBBS, DNB",300,212,"Tue,Thu,Sat",09:00-13:00,26
+70,Dr. Vivaan Menon,2,Senior Consultant,"MBBS, MD",1000,305,"Tue,Thu,Sat",10:00-14:00,17
+71,Dr. Meera Joshi,4,Resident Doctor,"MBBS, DM",1500,412,"Tue,Thu,Sat",09:00-17:00,21
+72,Dr. Priya Pillai,4,Consultant,"MBBS, DNB",300,430,Mon-Fri,09:00-17:00,23
+73,Dr. Geeta Gupta,13,Consultant,"MBBS, DNB",1200,027,"Tue,Thu,Sat",09:00-13:00,24
+74,Dr. Krishna Krishnan,10,Consultant,"MBBS, DM",1000,114,Mon-Fri,09:00-13:00,18
+75,Dr. Aarav Das,11,Associate Professor,"MBBS, MD",800,112,"Mon,Tue,Wed,Thu,Fri",10:00-14:00,15
+76,Dr. Deepak Bhat,6,Head of Department,"MBBS, MCh",800,314,"Tue,Thu",14:00-18:00,12
+77,Dr. Reyansh Naidu,8,Associate Professor,"MBBS, MS",1500,115,"Tue,Thu",09:00-17:00,23
+78,Dr. Suresh Sharma,13,Associate Professor,"MBBS, DM",500,016,"Tue,Thu,Sat",14:00-18:00,27
+79,Dr. Suresh Naidu,9,Head of Department,MBBS,600,218,"Mon,Wed,Fri",09:00-17:00,8
+80,Dr. Karthik Das,3,Associate Professor,"MBBS, DNB",1500,208,"Mon,Tue,Wed,Thu,Fri",16:00-20:00,16
+81,Dr. Reyansh Pillai,1,Senior Consultant,"MBBS, MCh",1200,108,Mon-Fri,09:00-17:00,13
+82,Dr. Ramesh Das,16,Resident Doctor,"MBBS, DNB",600,312,"Mon,Tue,Wed,Thu,Fri",14:00-18:00,11
+83,Dr. Rohan Reddy,9,Resident Doctor,"MBBS, MS",600,204,"Tue,Thu",10:00-14:00,8
+84,Dr. Kiran Naidu,7,Resident Doctor,"MBBS, DNB",1500,517,"Tue,Thu",14:00-18:00,5
+85,Dr. Anjali Menon,7,Assistant Professor,"MBBS, MS",600,501,"Tue,Thu",10:00-14:00,10
+86,Dr. Vihaan Patel,2,Assistant Professor,MBBS,500,321,"Mon,Tue,Wed,Thu,Fri",09:00-13:00,29
+87,Dr. Anjali Kumar,1,Associate Professor,"MBBS, MCh",600,106,"Mon,Wed,Fri",14:00-18:00,29
+88,Dr. Krishna Rao,16,Associate Professor,"MBBS, MCh",300,319,"Mon,Wed,Fri",10:00-14:00,6
+89,Dr. Neha Rao,19,Senior Consultant,"MBBS, MD",1000,025,"Mon,Tue,Wed,Thu,Fri",09:00-17:00,21
+90,Dr. Rohan Singh,20,Associate Professor,"MBBS, MCh",800,010,"Tue,Thu",16:00-20:00,11
+91,Dr. Vihaan Bhat,19,Resident Doctor,"MBBS, MD",1500,007,"Tue,Thu,Sat",14:00-18:00,23
+92,Dr. Priya Menon,3,Senior Consultant,"MBBS, DNB",300,206,"Mon,Wed,Fri",16:00-20:00,16
+93,Dr. Kiran Pillai,20,Consultant,"MBBS, MS",600,023,Mon-Fri,16:00-20:00,4
+94,Dr. Sanjay Krishnan,8,Resident Doctor,"MBBS, MS",800,104,"Tue,Thu",10:00-14:00,22
+95,Dr. Deepak Nair,5,Consultant,"MBBS, MD",500,226,Mon-Fri,09:00-17:00,25
+96,Dr. Anjali Joshi,19,Consultant,"MBBS, MCh",1200,010,"Mon,Tue,Wed,Thu,Fri",14:00-18:00,18
+97,Dr. Pooja Joshi,18,Consultant,"MBBS, DNB",300,029,"Mon,Tue,Wed,Thu,Fri",14:00-18:00,21
+98,Dr. Vivaan Rao,9,Senior Consultant,MBBS,1500,228,"Tue,Thu",09:00-17:00,2
+99,Dr. Aditya Iyer,9,Associate Professor,"MBBS, DNB",1200,215,Mon-Fri,10:00-14:00,20
+100,Dr. Pooja Rao,14,Associate Professor,"MBBS, DM",800,411,Mon-Fri,09:00-13:00,29
+101,Dr. Suresh Das,6,Resident Doctor,"MBBS, MCh",600,322,"Mon,Tue,Wed,Thu,Fri",09:00-17:00,3
+102,Dr. Reyansh Kapoor,15,Assistant Professor,"MBBS, DM",300,325,"Mon,Tue,Wed,Thu,Fri",09:00-17:00,28
+103,Dr. Sunil Das,1,Consultant,"MBBS, MS",1000,112,"Tue,Thu",16:00-20:00,22
+104,Dr. Vihaan Gupta,15,Assistant Professor,"MBBS, DNB",500,330,Mon-Fri,16:00-20:00,30
+105,Dr. Krishna Sharma,16,Resident Doctor,"MBBS, DNB",1500,308,"Tue,Thu,Sat",14:00-18:00,19
+106,Dr. Anita Rao,1,Senior Consultant,"MBBS, MD",800,104,"Tue,Thu,Sat",16:00-20:00,24
+107,Dr. Deepak Das,10,Associate Professor,"MBBS, MCh",500,115,"Tue,Thu",10:00-14:00,14
+108,Dr. Ananya Rao,7,Assistant Professor,"MBBS, MCh",600,530,"Tue,Thu",14:00-18:00,28
+109,Dr. Anjali Pillai,1,Head of Department,"MBBS, DNB",1200,116,"Tue,Thu,Sat",16:00-20:00,19
+110,Dr. Ramesh Kapoor,16,Head of Department,"MBBS, DNB",800,315,Mon-Fri,10:00-14:00,24
+111,Dr. Padma Menon,8,Associate Professor,"MBBS, MD",600,124,"Mon,Tue,Wed,Thu,Fri",16:00-20:00,14
+112,Dr. Pooja Verma,5,Senior Consultant,"MBBS, DNB",1000,211,"Mon,Wed,Fri",16:00-20:00,5
+113,Dr. Sunil Sharma,17,Resident Doctor,"MBBS, MS",800,028,"Tue,Thu,Sat",09:00-13:00,17
+114,Dr. Suresh Bhat,9,Resident Doctor,"MBBS, MCh",1200,203,Mon-Fri,09:00-17:00,14
+115,Dr. Pooja Patel,11,Consultant,"MBBS, DNB",300,108,Mon-Fri,10:00-14:00,25
+116,Dr. Vijay Reddy,3,Resident Doctor,MBBS,1500,204,"Mon,Tue,Wed,Thu,Fri",10:00-14:00,24
+117,Dr. Vivaan Verma,10,Assistant Professor,"MBBS, MD",600,112,Mon-Fri,16:00-20:00,6
+118,Dr. Anita Krishnan,8,Resident Doctor,"MBBS, MS",500,106,"Mon,Wed,Fri",09:00-17:00,29
+119,Dr. Karthik Kumar,13,Head of Department,"MBBS, MS",500,015,Mon-Fri,16:00-20:00,10
+120,Dr. Sunil Pillai,1,Resident Doctor,"MBBS, DNB",500,103,"Mon,Tue,Wed,Thu,Fri",14:00-18:00,20
+121,Dr. Vijay Naidu,10,Associate Professor,"MBBS, DM",500,113,"Mon,Tue,Wed,Thu,Fri",09:00-13:00,9
+122,Dr. Ramesh Krishnan,13,Assistant Professor,MBBS,600,001,"Mon,Tue,Wed,Thu,Fri",14:00-18:00,2
+123,Dr. Vihaan Bhat,19,Resident Doctor,"MBBS, MCh",1500,029,Mon-Fri,10:00-14:00,21
+124,Dr. Rohan Gupta,12,Head of Department,"MBBS, DM",1200,125,"Tue,Thu,Sat",09:00-13:00,30
+125,Dr. Neha Joshi,2,Consultant,"MBBS, DNB",600,324,"Tue,Thu,Sat",09:00-13:00,11
+126,Dr. Anita Iyer,11,Senior Consultant,"MBBS, MS",1500,118,Mon-Fri,09:00-17:00,18
+127,Dr. Priya Naidu,9,Associate Professor,"MBBS, DM",1200,228,Mon-Fri,09:00-13:00,16
+128,Dr. Diya Menon,3,Resident Doctor,MBBS,1200,213,"Tue,Thu",14:00-18:00,4
+129,Dr. Aarav Naidu,13,Head of Department,"MBBS, MD",800,012,Mon-Fri,09:00-17:00,14
+130,Dr. Ishaan Menon,12,Associate Professor,"MBBS, MD",1000,129,"Tue,Thu",14:00-18:00,21
+131,Dr. Arjun Joshi,8,Resident Doctor,"MBBS, DM",1200,114,"Mon,Wed,Fri",10:00-14:00,3
+132,Dr. Neha Kumar,2,Consultant,"MBBS, MD",500,329,"Tue,Thu",10:00-14:00,14
+133,Dr. Lakshmi Patel,15,Associate Professor,"MBBS, DNB",1200,324,"Tue,Thu,Sat",16:00-20:00,22
+134,Dr. Pooja Bhat,4,Associate Professor,"MBBS, DM",300,423,Mon-Fri,10:00-14:00,16
+135,Dr. Karthik Chatterjee,15,Consultant,MBBS,600,318,Mon-Fri,09:00-13:00,14
+136,Dr. Kavya Reddy,9,Associate Professor,"MBBS, MD",1200,207,"Tue,Thu",09:00-13:00,3
+137,Dr. Karthik Nair,11,Head of Department,"MBBS, MS",300,127,"Tue,Thu",10:00-14:00,20
+138,Dr. Rohan Kapoor,7,Senior Consultant,"MBBS, DNB",300,509,"Tue,Thu,Sat",10:00-14:00,19
+139,Dr. Sneha Reddy,9,Resident Doctor,"MBBS, MD",500,201,Mon-Fri,10:00-14:00,20
+140,Dr. Vivaan Iyer,11,Assistant Professor,"MBBS, MD",500,124,"Mon,Tue,Wed,Thu,Fri",09:00-17:00,5

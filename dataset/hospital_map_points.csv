@@ -1,0 +1,61 @@
+id,name,category,building_name,floor_number,x_coordinate,y_coordinate,description
+1,Reception - Cancer Care Building,Reception,Cancer Care Building,3,7.89,60.25,Reception - Cancer Care Building located in Cancer Care Building.
+2,ATM - Diagnostics Building,ATM,Diagnostics Building,2,32.12,8.01,ATM - Diagnostics Building located in Diagnostics Building.
+3,Pharmacy - Cancer Care Building,Pharmacy,Cancer Care Building,3,60.26,42.61,Pharmacy - Cancer Care Building located in Cancer Care Building.
+4,Emergency - Emergency Block,Emergency,Emergency Block,3,4.24,87.0,Emergency - Emergency Block located in Emergency Block.
+5,Billing Counter - Cancer Care Building,Billing Counter,Cancer Care Building,3,27.46,98.0,Billing Counter - Cancer Care Building located in Cancer Care Building.
+6,Reception - Main Building,Reception,Main Building,3,36.33,80.11,Reception - Main Building located in Main Building.
+7,Entrance - Diagnostics Building,Entrance,Diagnostics Building,1,84.87,67.81,Entrance - Diagnostics Building located in Diagnostics Building.
+8,Entrance - Emergency Block,Entrance,Emergency Block,1,6.72,77.85,Entrance - Emergency Block located in Emergency Block.
+9,Emergency - Cancer Care Building,Emergency,Cancer Care Building,3,94.95,3.24,Emergency - Cancer Care Building located in Cancer Care Building.
+10,Cafeteria - Diagnostics Building,Cafeteria,Diagnostics Building,2,37.2,76.31,Cafeteria - Diagnostics Building located in Diagnostics Building.
+11,ATM - Diagnostics Building,ATM,Diagnostics Building,2,39.8,64.96,ATM - Diagnostics Building located in Diagnostics Building.
+12,Reception - Diagnostics Building,Reception,Diagnostics Building,0,73.57,49.9,Reception - Diagnostics Building located in Diagnostics Building.
+13,ATM - Emergency Block,ATM,Emergency Block,0,26.18,26.03,ATM - Emergency Block located in Emergency Block.
+14,Lab - Emergency Block,Lab,Emergency Block,4,28.56,91.65,Lab - Emergency Block located in Emergency Block.
+15,Lab - Emergency Block,Lab,Emergency Block,0,13.57,7.41,Lab - Emergency Block located in Emergency Block.
+16,Cafeteria - Diagnostics Building,Cafeteria,Diagnostics Building,0,81.05,96.76,Cafeteria - Diagnostics Building located in Diagnostics Building.
+17,Emergency - Cancer Care Building,Emergency,Cancer Care Building,0,55.0,29.04,Emergency - Cancer Care Building located in Cancer Care Building.
+18,Pulmonology,Department,Cancer Care Building,2,50.88,12.14,Pulmonology located in Cancer Care Building.
+19,Pediatrics,Department,Diagnostics Building,3,2.63,55.4,Pediatrics located in Diagnostics Building.
+20,Cafeteria - Cancer Care Building,Cafeteria,Cancer Care Building,4,12.98,88.42,Cafeteria - Cancer Care Building located in Cancer Care Building.
+21,Pharmacy - Main Building,Pharmacy,Main Building,3,99.96,71.89,Pharmacy - Main Building located in Main Building.
+22,Parking - Emergency Block,Parking,Emergency Block,4,7.38,97.24,Parking - Emergency Block located in Emergency Block.
+23,Cafeteria - Main Building,Cafeteria,Main Building,3,68.01,34.45,Cafeteria - Main Building located in Main Building.
+24,Psychiatry,Department,Diagnostics Building,4,91.07,5.54,Psychiatry located in Diagnostics Building.
+25,ATM - Main Building,ATM,Main Building,1,30.41,16.2,ATM - Main Building located in Main Building.
+26,Emergency - Diagnostics Building,Emergency,Diagnostics Building,4,89.49,84.59,Emergency - Diagnostics Building located in Diagnostics Building.
+27,Lab - Cancer Care Building,Lab,Cancer Care Building,4,27.45,62.5,Lab - Cancer Care Building located in Cancer Care Building.
+28,ATM - Main Building,ATM,Main Building,1,59.18,58.06,ATM - Main Building located in Main Building.
+29,Billing Counter - Diagnostics Building,Billing Counter,Diagnostics Building,4,33.76,92.39,Billing Counter - Diagnostics Building located in Diagnostics Building.
+30,Entrance - Main Building,Entrance,Main Building,0,4.55,64.15,Entrance - Main Building located in Main Building.
+31,Lab - Cancer Care Building,Lab,Cancer Care Building,4,41.66,63.9,Lab - Cancer Care Building located in Cancer Care Building.
+32,ATM - Emergency Block,ATM,Emergency Block,2,64.19,30.21,ATM - Emergency Block located in Emergency Block.
+33,Parking - Diagnostics Building,Parking,Diagnostics Building,2,45.35,68.86,Parking - Diagnostics Building located in Diagnostics Building.
+34,Cafeteria - Diagnostics Building,Cafeteria,Diagnostics Building,3,48.43,20.4,Cafeteria - Diagnostics Building located in Diagnostics Building.
+35,Emergency - Diagnostics Building,Emergency,Diagnostics Building,2,73.42,86.08,Emergency - Diagnostics Building located in Diagnostics Building.
+36,Ophthalmology,Department,Emergency Block,4,56.17,31.91,Ophthalmology located in Emergency Block.
+37,Reception - Emergency Block,Reception,Emergency Block,2,44.96,14.09,Reception - Emergency Block located in Emergency Block.
+38,Pharmacy - Main Building,Pharmacy,Main Building,3,86.42,41.81,Pharmacy - Main Building located in Main Building.
+39,Emergency - Diagnostics Building,Emergency,Diagnostics Building,4,72.11,18.98,Emergency - Diagnostics Building located in Diagnostics Building.
+40,Cafeteria - Diagnostics Building,Cafeteria,Diagnostics Building,4,46.68,87.91,Cafeteria - Diagnostics Building located in Diagnostics Building.
+41,Entrance - Emergency Block,Entrance,Emergency Block,0,94.52,50.54,Entrance - Emergency Block located in Emergency Block.
+42,Lab - Diagnostics Building,Lab,Diagnostics Building,4,35.29,5.05,Lab - Diagnostics Building located in Diagnostics Building.
+43,Billing Counter - Emergency Block,Billing Counter,Emergency Block,3,28.57,0.82,Billing Counter - Emergency Block located in Emergency Block.
+44,Parking - Main Building,Parking,Main Building,1,88.25,72.75,Parking - Main Building located in Main Building.
+45,Emergency - Emergency Block,Emergency,Emergency Block,0,40.06,57.03,Emergency - Emergency Block located in Emergency Block.
+46,Emergency - Diagnostics Building,Emergency,Diagnostics Building,4,28.86,38.63,Emergency - Diagnostics Building located in Diagnostics Building.
+47,ATM - Emergency Block,ATM,Emergency Block,2,82.53,62.32,ATM - Emergency Block located in Emergency Block.
+48,Neurology,Department,Main Building,3,37.32,98.68,Neurology located in Main Building.
+49,Oncology,Department,Cancer Care Building,4,50.91,50.01,Oncology located in Cancer Care Building.
+50,Entrance - Main Building,Entrance,Main Building,1,71.36,80.4,Entrance - Main Building located in Main Building.
+51,Pharmacy,Department,Emergency Block,4,13.98,93.14,Pharmacy located in Emergency Block.
+52,Dentistry,Department,Cancer Care Building,4,73.93,29.92,Dentistry located in Cancer Care Building.
+53,ATM - Cancer Care Building,ATM,Cancer Care Building,4,53.23,70.87,ATM - Cancer Care Building located in Cancer Care Building.
+54,Cafeteria - Cancer Care Building,Cafeteria,Cancer Care Building,0,36.84,67.38,Cafeteria - Cancer Care Building located in Cancer Care Building.
+55,Billing Counter - Emergency Block,Billing Counter,Emergency Block,2,79.68,72.53,Billing Counter - Emergency Block located in Emergency Block.
+56,Billing Counter - Main Building,Billing Counter,Main Building,3,26.55,65.56,Billing Counter - Main Building located in Main Building.
+57,Entrance - Diagnostics Building,Entrance,Diagnostics Building,4,48.04,52.42,Entrance - Diagnostics Building located in Diagnostics Building.
+58,Pediatrics,Department,Emergency Block,0,57.26,70.05,Pediatrics located in Emergency Block.
+59,Entrance - Diagnostics Building,Entrance,Diagnostics Building,3,31.37,15.14,Entrance - Diagnostics Building located in Diagnostics Building.
+60,Parking - Diagnostics Building,Parking,Diagnostics Building,4,77.5,92.05,Parking - Diagnostics Building located in Diagnostics Building.

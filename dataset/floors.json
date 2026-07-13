@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "building_id": 1,
+    "floor_number": 0,
+    "label": "Ground Floor - Reception & Emergency"
+  },
+  {
+    "id": 2,
+    "building_id": 1,
+    "floor_number": 1,
+    "label": "Floor 1"
+  },
+  {
+    "id": 3,
+    "building_id": 1,
+    "floor_number": 2,
+    "label": "Floor 2"
+  },
+  {
+    "id": 4,
+    "building_id": 1,
+    "floor_number": 3,
+    "label": "Floor 3"
+  },
+  {
+    "id": 5,
+    "building_id": 1,
+    "floor_number": 4,
+    "label": "Floor 4"
+  },
+  {
+    "id": 6,
+    "building_id": 2,
+    "floor_number": 0,
+    "label": "Ground Floor - Reception & Emergency"
+  },
+  {
+    "id": 7,
+    "building_id": 2,
+    "floor_number": 1,
+    "label": "Floor 1"
+  },
+  {
+    "id": 8,
+    "building_id": 2,
+    "floor_number": 2,
+    "label": "Floor 2"
+  },
+  {
+    "id": 9,
+    "building_id": 2,
+    "floor_number": 3,
+    "label": "Floor 3"
+  },
+  {
+    "id": 10,
+    "building_id": 2,
+    "floor_number": 4,
+    "label": "Floor 4"
+  },
+  {
+    "id": 11,
+    "building_id": 3,
+    "floor_number": 0,
+    "label": "Ground Floor - Reception & Emergency"
+  },
+  {
+    "id": 12,
+    "building_id": 3,
+    "floor_number": 1,
+    "label": "Floor 1"
+  },
+  {
+    "id": 13,
+    "building_id": 3,
+    "floor_number": 2,
+    "label": "Floor 2"
+  },
+  {
+    "id": 14,
+    "building_id": 3,
+    "floor_number": 3,
+    "label": "Floor 3"
+  },
+  {
+    "id": 15,
+    "building_id": 3,
+    "floor_number": 4,
+    "label": "Floor 4"
+  },
+  {
+    "id": 16,
+    "building_id": 4,
+    "floor_number": 0,
+    "label": "Ground Floor - Reception & Emergency"
+  },
+  {
+    "id": 17,
+    "building_id": 4,
+    "floor_number": 1,
+    "label": "Floor 1"
+  },
+  {
+    "id": 18,
+    "building_id": 4,
+    "floor_number": 2,
+    "label": "Floor 2"
+  },
+  {
+    "id": 19,
+    "building_id": 4,
+    "floor_number": 3,
+    "label": "Floor 3"
+  },
+  {
+    "id": 20,
+    "building_id": 4,
+    "floor_number": 4,
+    "label": "Floor 4"
+  }
+]

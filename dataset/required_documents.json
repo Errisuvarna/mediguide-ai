@@ -1,0 +1,170 @@
+[
+  {
+    "id": 1,
+    "process_name": "Registration",
+    "document_name": "Government ID Proof",
+    "is_mandatory": "yes",
+    "notes": "Required for the registration process."
+  },
+  {
+    "id": 2,
+    "process_name": "Registration",
+    "document_name": "Address Proof",
+    "is_mandatory": "yes",
+    "notes": "Required for the registration process."
+  },
+  {
+    "id": 3,
+    "process_name": "Registration",
+    "document_name": "Passport-size Photo",
+    "is_mandatory": "yes",
+    "notes": "Required for the registration process."
+  },
+  {
+    "id": 4,
+    "process_name": "Registration",
+    "document_name": "Referral Letter (if any)",
+    "is_mandatory": "no",
+    "notes": "Required for the registration process."
+  },
+  {
+    "id": 5,
+    "process_name": "Admission",
+    "document_name": "ID Proof",
+    "is_mandatory": "yes",
+    "notes": "Required for the admission process."
+  },
+  {
+    "id": 6,
+    "process_name": "Admission",
+    "document_name": "Insurance Card / Policy Document",
+    "is_mandatory": "yes",
+    "notes": "Required for the admission process."
+  },
+  {
+    "id": 7,
+    "process_name": "Admission",
+    "document_name": "Admission Deposit Receipt",
+    "is_mandatory": "yes",
+    "notes": "Required for the admission process."
+  },
+  {
+    "id": 8,
+    "process_name": "Admission",
+    "document_name": "Previous Medical Records",
+    "is_mandatory": "no",
+    "notes": "Required for the admission process."
+  },
+  {
+    "id": 9,
+    "process_name": "Admission",
+    "document_name": "Emergency Contact Details Form",
+    "is_mandatory": "yes",
+    "notes": "Required for the admission process."
+  },
+  {
+    "id": 10,
+    "process_name": "Billing",
+    "document_name": "Admission ID",
+    "is_mandatory": "yes",
+    "notes": "Required for the billing process."
+  },
+  {
+    "id": 11,
+    "process_name": "Billing",
+    "document_name": "Insurance Approval Letter (if applicable)",
+    "is_mandatory": "yes",
+    "notes": "Required for the billing process."
+  },
+  {
+    "id": 12,
+    "process_name": "Billing",
+    "document_name": "Itemized Bill Request Form",
+    "is_mandatory": "no",
+    "notes": "Required for the billing process."
+  },
+  {
+    "id": 13,
+    "process_name": "Insurance",
+    "document_name": "Insurance Policy Card",
+    "is_mandatory": "yes",
+    "notes": "Required for the insurance process."
+  },
+  {
+    "id": 14,
+    "process_name": "Insurance",
+    "document_name": "Government ID Proof",
+    "is_mandatory": "yes",
+    "notes": "Required for the insurance process."
+  },
+  {
+    "id": 15,
+    "process_name": "Insurance",
+    "document_name": "Pre-authorization Form",
+    "is_mandatory": "yes",
+    "notes": "Required for the insurance process."
+  },
+  {
+    "id": 16,
+    "process_name": "Insurance",
+    "document_name": "Claim Form",
+    "is_mandatory": "no",
+    "notes": "Required for the insurance process."
+  },
+  {
+    "id": 17,
+    "process_name": "Insurance",
+    "document_name": "Hospital Empanelment Letter",
+    "is_mandatory": "yes",
+    "notes": "Required for the insurance process."
+  },
+  {
+    "id": 18,
+    "process_name": "Discharge",
+    "document_name": "Discharge Summary Acknowledgement",
+    "is_mandatory": "yes",
+    "notes": "Required for the discharge process."
+  },
+  {
+    "id": 19,
+    "process_name": "Discharge",
+    "document_name": "Final Bill Payment Receipt",
+    "is_mandatory": "yes",
+    "notes": "Required for the discharge process."
+  },
+  {
+    "id": 20,
+    "process_name": "Discharge",
+    "document_name": "Follow-up Appointment Slip",
+    "is_mandatory": "no",
+    "notes": "Required for the discharge process."
+  },
+  {
+    "id": 21,
+    "process_name": "Laboratory",
+    "document_name": "Doctor's Test Prescription",
+    "is_mandatory": "yes",
+    "notes": "Required for the laboratory process."
+  },
+  {
+    "id": 22,
+    "process_name": "Laboratory",
+    "document_name": "Patient ID Card",
+    "is_mandatory": "yes",
+    "notes": "Required for the laboratory process."
+  },
+  {
+    "id": 23,
+    "process_name": "Pharmacy",
+    "document_name": "Doctor's Prescription",
+    "is_mandatory": "yes",
+    "notes": "Required for the pharmacy process."
+  },
+  {
+    "id": 24,
+    "process_name": "Pharmacy",
+    "document_name": "Patient ID Card",
+    "is_mandatory": "no",
+    "notes": "Required for the pharmacy process."
+  }
+]

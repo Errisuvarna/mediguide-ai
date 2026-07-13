@@ -1,0 +1,602 @@
+[
+  {
+    "id": 1,
+    "name": "Reception - Cancer Care Building",
+    "category": "Reception",
+    "building_name": "Cancer Care Building",
+    "floor_number": 3,
+    "x_coordinate": 7.89,
+    "y_coordinate": 60.25,
+    "description": "Reception - Cancer Care Building located in Cancer Care Building."
+  },
+  {
+    "id": 2,
+    "name": "ATM - Diagnostics Building",
+    "category": "ATM",
+    "building_name": "Diagnostics Building",
+    "floor_number": 2,
+    "x_coordinate": 32.12,
+    "y_coordinate": 8.01,
+    "description": "ATM - Diagnostics Building located in Diagnostics Building."
+  },
+  {
+    "id": 3,
+    "name": "Pharmacy - Cancer Care Building",
+    "category": "Pharmacy",
+    "building_name": "Cancer Care Building",
+    "floor_number": 3,
+    "x_coordinate": 60.26,
+    "y_coordinate": 42.61,
+    "description": "Pharmacy - Cancer Care Building located in Cancer Care Building."
+  },
+  {
+    "id": 4,
+    "name": "Emergency - Emergency Block",
+    "category": "Emergency",
+    "building_name": "Emergency Block",
+    "floor_number": 3,
+    "x_coordinate": 4.24,
+    "y_coordinate": 87.0,
+    "description": "Emergency - Emergency Block located in Emergency Block."
+  },
+  {
+    "id": 5,
+    "name": "Billing Counter - Cancer Care Building",
+    "category": "Billing Counter",
+    "building_name": "Cancer Care Building",
+    "floor_number": 3,
+    "x_coordinate": 27.46,
+    "y_coordinate": 98.0,
+    "description": "Billing Counter - Cancer Care Building located in Cancer Care Building."
+  },
+  {
+    "id": 6,
+    "name": "Reception - Main Building",
+    "category": "Reception",
+    "building_name": "Main Building",
+    "floor_number": 3,
+    "x_coordinate": 36.33,
+    "y_coordinate": 80.11,
+    "description": "Reception - Main Building located in Main Building."
+  },
+  {
+    "id": 7,
+    "name": "Entrance - Diagnostics Building",
+    "category": "Entrance",
+    "building_name": "Diagnostics Building",
+    "floor_number": 1,
+    "x_coordinate": 84.87,
+    "y_coordinate": 67.81,
+    "description": "Entrance - Diagnostics Building located in Diagnostics Building."
+  },
+  {
+    "id": 8,
+    "name": "Entrance - Emergency Block",
+    "category": "Entrance",
+    "building_name": "Emergency Block",
+    "floor_number": 1,
+    "x_coordinate": 6.72,
+    "y_coordinate": 77.85,
+    "description": "Entrance - Emergency Block located in Emergency Block."
+  },
+  {
+    "id": 9,
+    "name": "Emergency - Cancer Care Building",
+    "category": "Emergency",
+    "building_name": "Cancer Care Building",
+    "floor_number": 3,
+    "x_coordinate": 94.95,
+    "y_coordinate": 3.24,
+    "description": "Emergency - Cancer Care Building located in Cancer Care Building."
+  },
+  {
+    "id": 10,
+    "name": "Cafeteria - Diagnostics Building",
+    "category": "Cafeteria",
+    "building_name": "Diagnostics Building",
+    "floor_number": 2,
+    "x_coordinate": 37.2,
+    "y_coordinate": 76.31,
+    "description": "Cafeteria - Diagnostics Building located in Diagnostics Building."
+  },
+  {
+    "id": 11,
+    "name": "ATM - Diagnostics Building",
+    "category": "ATM",
+    "building_name": "Diagnostics Building",
+    "floor_number": 2,
+    "x_coordinate": 39.8,
+    "y_coordinate": 64.96,
+    "description": "ATM - Diagnostics Building located in Diagnostics Building."
+  },
+  {
+    "id": 12,
+    "name": "Reception - Diagnostics Building",
+    "category": "Reception",
+    "building_name": "Diagnostics Building",
+    "floor_number": 0,
+    "x_coordinate": 73.57,
+    "y_coordinate": 49.9,
+    "description": "Reception - Diagnostics Building located in Diagnostics Building."
+  },
+  {
+    "id": 13,
+    "name": "ATM - Emergency Block",
+    "category": "ATM",
+    "building_name": "Emergency Block",
+    "floor_number": 0,
+    "x_coordinate": 26.18,
+    "y_coordinate": 26.03,
+    "description": "ATM - Emergency Block located in Emergency Block."
+  },
+  {
+    "id": 14,
+    "name": "Lab - Emergency Block",
+    "category": "Lab",
+    "building_name": "Emergency Block",
+    "floor_number": 4,
+    "x_coordinate": 28.56,
+    "y_coordinate": 91.65,
+    "description": "Lab - Emergency Block located in Emergency Block."
+  },
+  {
+    "id": 15,
+    "name": "Lab - Emergency Block",
+    "category": "Lab",
+    "building_name": "Emergency Block",
+    "floor_number": 0,
+    "x_coordinate": 13.57,
+    "y_coordinate": 7.41,
+    "description": "Lab - Emergency Block located in Emergency Block."
+  },
+  {
+    "id": 16,
+    "name": "Cafeteria - Diagnostics Building",
+    "category": "Cafeteria",
+    "building_name": "Diagnostics Building",
+    "floor_number": 0,
+    "x_coordinate": 81.05,
+    "y_coordinate": 96.76,
+    "description": "Cafeteria - Diagnostics Building located in Diagnostics Building."
+  },
+  {
+    "id": 17,
+    "name": "Emergency - Cancer Care Building",
+    "category": "Emergency",
+    "building_name": "Cancer Care Building",
+    "floor_number": 0,
+    "x_coordinate": 55.0,
+    "y_coordinate": 29.04,
+    "description": "Emergency - Cancer Care Building located in Cancer Care Building."
+  },
+  {
+    "id": 18,
+    "name": "Pulmonology",
+    "category": "Department",
+    "building_name": "Cancer Care Building",
+    "floor_number": 2,
+    "x_coordinate": 50.88,
+    "y_coordinate": 12.14,
+    "description": "Pulmonology located in Cancer Care Building."
+  },
+  {
+    "id": 19,
+    "name": "Pediatrics",
+    "category": "Department",
+    "building_name": "Diagnostics Building",
+    "floor_number": 3,
+    "x_coordinate": 2.63,
+    "y_coordinate": 55.4,
+    "description": "Pediatrics located in Diagnostics Building."
+  },
+  {
+    "id": 20,
+    "name": "Cafeteria - Cancer Care Building",
+    "category": "Cafeteria",
+    "building_name": "Cancer Care Building",
+    "floor_number": 4,
+    "x_coordinate": 12.98,
+    "y_coordinate": 88.42,
+    "description": "Cafeteria - Cancer Care Building located in Cancer Care Building."
+  },
+  {
+    "id": 21,
+    "name": "Pharmacy - Main Building",
+    "category": "Pharmacy",
+    "building_name": "Main Building",
+    "floor_number": 3,
+    "x_coordinate": 99.96,
+    "y_coordinate": 71.89,
+    "description": "Pharmacy - Main Building located in Main Building."
+  },
+  {
+    "id": 22,
+    "name": "Parking - Emergency Block",
+    "category": "Parking",
+    "building_name": "Emergency Block",
+    "floor_number": 4,
+    "x_coordinate": 7.38,
+    "y_coordinate": 97.24,
+    "description": "Parking - Emergency Block located in Emergency Block."
+  },
+  {
+    "id": 23,
+    "name": "Cafeteria - Main Building",
+    "category": "Cafeteria",
+    "building_name": "Main Building",
+    "floor_number": 3,
+    "x_coordinate": 68.01,
+    "y_coordinate": 34.45,
+    "description": "Cafeteria - Main Building located in Main Building."
+  },
+  {
+    "id": 24,
+    "name": "Psychiatry",
+    "category": "Department",
+    "building_name": "Diagnostics Building",
+    "floor_number": 4,
+    "x_coordinate": 91.07,
+    "y_coordinate": 5.54,
+    "description": "Psychiatry located in Diagnostics Building."
+  },
+  {
+    "id": 25,
+    "name": "ATM - Main Building",
+    "category": "ATM",
+    "building_name": "Main Building",
+    "floor_number": 1,
+    "x_coordinate": 30.41,
+    "y_coordinate": 16.2,
+    "description": "ATM - Main Building located in Main Building."
+  },
+  {
+    "id": 26,
+    "name": "Emergency - Diagnostics Building",
+    "category": "Emergency",
+    "building_name": "Diagnostics Building",
+    "floor_number": 4,
+    "x_coordinate": 89.49,
+    "y_coordinate": 84.59,
+    "description": "Emergency - Diagnostics Building located in Diagnostics Building."
+  },
+  {
+    "id": 27,
+    "name": "Lab - Cancer Care Building",
+    "category": "Lab",
+    "building_name": "Cancer Care Building",
+    "floor_number": 4,
+    "x_coordinate": 27.45,
+    "y_coordinate": 62.5,
+    "description": "Lab - Cancer Care Building located in Cancer Care Building."
+  },
+  {
+    "id": 28,
+    "name": "ATM - Main Building",
+    "category": "ATM",
+    "building_name": "Main Building",
+    "floor_number": 1,
+    "x_coordinate": 59.18,
+    "y_coordinate": 58.06,
+    "description": "ATM - Main Building located in Main Building."
+  },
+  {
+    "id": 29,
+    "name": "Billing Counter - Diagnostics Building",
+    "category": "Billing Counter",
+    "building_name": "Diagnostics Building",
+    "floor_number": 4,
+    "x_coordinate": 33.76,
+    "y_coordinate": 92.39,
+    "description": "Billing Counter - Diagnostics Building located in Diagnostics Building."
+  },
+  {
+    "id": 30,
+    "name": "Entrance - Main Building",
+    "category": "Entrance",
+    "building_name": "Main Building",
+    "floor_number": 0,
+    "x_coordinate": 4.55,
+    "y_coordinate": 64.15,
+    "description": "Entrance - Main Building located in Main Building."
+  },
+  {
+    "id": 31,
+    "name": "Lab - Cancer Care Building",
+    "category": "Lab",
+    "building_name": "Cancer Care Building",
+    "floor_number": 4,
+    "x_coordinate": 41.66,
+    "y_coordinate": 63.9,
+    "description": "Lab - Cancer Care Building located in Cancer Care Building."
+  },
+  {
+    "id": 32,
+    "name": "ATM - Emergency Block",
+    "category": "ATM",
+    "building_name": "Emergency Block",
+    "floor_number": 2,
+    "x_coordinate": 64.19,
+    "y_coordinate": 30.21,
+    "description": "ATM - Emergency Block located in Emergency Block."
+  },
+  {
+    "id": 33,
+    "name": "Parking - Diagnostics Building",
+    "category": "Parking",
+    "building_name": "Diagnostics Building",
+    "floor_number": 2,
+    "x_coordinate": 45.35,
+    "y_coordinate": 68.86,
+    "description": "Parking - Diagnostics Building located in Diagnostics Building."
+  },
+  {
+    "id": 34,
+    "name": "Cafeteria - Diagnostics Building",
+    "category": "Cafeteria",
+    "building_name": "Diagnostics Building",
+    "floor_number": 3,
+    "x_coordinate": 48.43,
+    "y_coordinate": 20.4,
+    "description": "Cafeteria - Diagnostics Building located in Diagnostics Building."
+  },
+  {
+    "id": 35,
+    "name": "Emergency - Diagnostics Building",
+    "category": "Emergency",
+    "building_name": "Diagnostics Building",
+    "floor_number": 2,
+    "x_coordinate": 73.42,
+    "y_coordinate": 86.08,
+    "description": "Emergency - Diagnostics Building located in Diagnostics Building."
+  },
+  {
+    "id": 36,
+    "name": "Ophthalmology",
+    "category": "Department",
+    "building_name": "Emergency Block",
+    "floor_number": 4,
+    "x_coordinate": 56.17,
+    "y_coordinate": 31.91,
+    "description": "Ophthalmology located in Emergency Block."
+  },
+  {
+    "id": 37,
+    "name": "Reception - Emergency Block",
+    "category": "Reception",
+    "building_name": "Emergency Block",
+    "floor_number": 2,
+    "x_coordinate": 44.96,
+    "y_coordinate": 14.09,
+    "description": "Reception - Emergency Block located in Emergency Block."
+  },
+  {
+    "id": 38,
+    "name": "Pharmacy - Main Building",
+    "category": "Pharmacy",
+    "building_name": "Main Building",
+    "floor_number": 3,
+    "x_coordinate": 86.42,
+    "y_coordinate": 41.81,
+    "description": "Pharmacy - Main Building located in Main Building."
+  },
+  {
+    "id": 39,
+    "name": "Emergency - Diagnostics Building",
+    "category": "Emergency",
+    "building_name": "Diagnostics Building",
+    "floor_number": 4,
+    "x_coordinate": 72.11,
+    "y_coordinate": 18.98,
+    "description": "Emergency - Diagnostics Building located in Diagnostics Building."
+  },
+  {
+    "id": 40,
+    "name": "Cafeteria - Diagnostics Building",
+    "category": "Cafeteria",
+    "building_name": "Diagnostics Building",
+    "floor_number": 4,
+    "x_coordinate": 46.68,
+    "y_coordinate": 87.91,
+    "description": "Cafeteria - Diagnostics Building located in Diagnostics Building."
+  },
+  {
+    "id": 41,
+    "name": "Entrance - Emergency Block",
+    "category": "Entrance",
+    "building_name": "Emergency Block",
+    "floor_number": 0,
+    "x_coordinate": 94.52,
+    "y_coordinate": 50.54,
+    "description": "Entrance - Emergency Block located in Emergency Block."
+  },
+  {
+    "id": 42,
+    "name": "Lab - Diagnostics Building",
+    "category": "Lab",
+    "building_name": "Diagnostics Building",
+    "floor_number": 4,
+    "x_coordinate": 35.29,
+    "y_coordinate": 5.05,
+    "description": "Lab - Diagnostics Building located in Diagnostics Building."
+  },
+  {
+    "id": 43,
+    "name": "Billing Counter - Emergency Block",
+    "category": "Billing Counter",
+    "building_name": "Emergency Block",
+    "floor_number": 3,
+    "x_coordinate": 28.57,
+    "y_coordinate": 0.82,
+    "description": "Billing Counter - Emergency Block located in Emergency Block."
+  },
+  {
+    "id": 44,
+    "name": "Parking - Main Building",
+    "category": "Parking",
+    "building_name": "Main Building",
+    "floor_number": 1,
+    "x_coordinate": 88.25,
+    "y_coordinate": 72.75,
+    "description": "Parking - Main Building located in Main Building."
+  },
+  {
+    "id": 45,
+    "name": "Emergency - Emergency Block",
+    "category": "Emergency",
+    "building_name": "Emergency Block",
+    "floor_number": 0,
+    "x_coordinate": 40.06,
+    "y_coordinate": 57.03,
+    "description": "Emergency - Emergency Block located in Emergency Block."
+  },
+  {
+    "id": 46,
+    "name": "Emergency - Diagnostics Building",
+    "category": "Emergency",
+    "building_name": "Diagnostics Building",
+    "floor_number": 4,
+    "x_coordinate": 28.86,
+    "y_coordinate": 38.63,
+    "description": "Emergency - Diagnostics Building located in Diagnostics Building."
+  },
+  {
+    "id": 47,
+    "name": "ATM - Emergency Block",
+    "category": "ATM",
+    "building_name": "Emergency Block",
+    "floor_number": 2,
+    "x_coordinate": 82.53,
+    "y_coordinate": 62.32,
+    "description": "ATM - Emergency Block located in Emergency Block."
+  },
+  {
+    "id": 48,
+    "name": "Neurology",
+    "category": "Department",
+    "building_name": "Main Building",
+    "floor_number": 3,
+    "x_coordinate": 37.32,
+    "y_coordinate": 98.68,
+    "description": "Neurology located in Main Building."
+  },
+  {
+    "id": 49,
+    "name": "Oncology",
+    "category": "Department",
+    "building_name": "Cancer Care Building",
+    "floor_number": 4,
+    "x_coordinate": 50.91,
+    "y_coordinate": 50.01,
+    "description": "Oncology located in Cancer Care Building."
+  },
+  {
+    "id": 50,
+    "name": "Entrance - Main Building",
+    "category": "Entrance",
+    "building_name": "Main Building",
+    "floor_number": 1,
+    "x_coordinate": 71.36,
+    "y_coordinate": 80.4,
+    "description": "Entrance - Main Building located in Main Building."
+  },
+  {
+    "id": 51,
+    "name": "Pharmacy",
+    "category": "Department",
+    "building_name": "Emergency Block",
+    "floor_number": 4,
+    "x_coordinate": 13.98,
+    "y_coordinate": 93.14,
+    "description": "Pharmacy located in Emergency Block."
+  },
+  {
+    "id": 52,
+    "name": "Dentistry",
+    "category": "Department",
+    "building_name": "Cancer Care Building",
+    "floor_number": 4,
+    "x_coordinate": 73.93,
+    "y_coordinate": 29.92,
+    "description": "Dentistry located in Cancer Care Building."
+  },
+  {
+    "id": 53,
+    "name": "ATM - Cancer Care Building",
+    "category": "ATM",
+    "building_name": "Cancer Care Building",
+    "floor_number": 4,
+    "x_coordinate": 53.23,
+    "y_coordinate": 70.87,
+    "description": "ATM - Cancer Care Building located in Cancer Care Building."
+  },
+  {
+    "id": 54,
+    "name": "Cafeteria - Cancer Care Building",
+    "category": "Cafeteria",
+    "building_name": "Cancer Care Building",
+    "floor_number": 0,
+    "x_coordinate": 36.84,
+    "y_coordinate": 67.38,
+    "description": "Cafeteria - Cancer Care Building located in Cancer Care Building."
+  },
+  {
+    "id": 55,
+    "name": "Billing Counter - Emergency Block",
+    "category": "Billing Counter",
+    "building_name": "Emergency Block",
+    "floor_number": 2,
+    "x_coordinate": 79.68,
+    "y_coordinate": 72.53,
+    "description": "Billing Counter - Emergency Block located in Emergency Block."
+  },
+  {
+    "id": 56,
+    "name": "Billing Counter - Main Building",
+    "category": "Billing Counter",
+    "building_name": "Main Building",
+    "floor_number": 3,
+    "x_coordinate": 26.55,
+    "y_coordinate": 65.56,
+    "description": "Billing Counter - Main Building located in Main Building."
+  },
+  {
+    "id": 57,
+    "name": "Entrance - Diagnostics Building",
+    "category": "Entrance",
+    "building_name": "Diagnostics Building",
+    "floor_number": 4,
+    "x_coordinate": 48.04,
+    "y_coordinate": 52.42,
+    "description": "Entrance - Diagnostics Building located in Diagnostics Building."
+  },
+  {
+    "id": 58,
+    "name": "Pediatrics",
+    "category": "Department",
+    "building_name": "Emergency Block",
+    "floor_number": 0,
+    "x_coordinate": 57.26,
+    "y_coordinate": 70.05,
+    "description": "Pediatrics located in Emergency Block."
+  },
+  {
+    "id": 59,
+    "name": "Entrance - Diagnostics Building",
+    "category": "Entrance",
+    "building_name": "Diagnostics Building",
+    "floor_number": 3,
+    "x_coordinate": 31.37,
+    "y_coordinate": 15.14,
+    "description": "Entrance - Diagnostics Building located in Diagnostics Building."
+  },
+  {
+    "id": 60,
+    "name": "Parking - Diagnostics Building",
+    "category": "Parking",
+    "building_name": "Diagnostics Building",
+    "floor_number": 4,
+    "x_coordinate": 77.5,
+    "y_coordinate": 92.05,
+    "description": "Parking - Diagnostics Building located in Diagnostics Building."
+  }
+]

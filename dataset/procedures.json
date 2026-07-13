@@ -1,0 +1,322 @@
+[
+  {
+    "id": 1,
+    "name": "Appendectomy",
+    "category": "Surgery",
+    "description": "Appendectomy - performed by our Surgery specialists.",
+    "estimated_cost": 45000,
+    "prep_instructions": "8 hours fasting required before surgery."
+  },
+  {
+    "id": 2,
+    "name": "Angioplasty",
+    "category": "Cardiology",
+    "description": "Angioplasty - performed by our Cardiology specialists.",
+    "estimated_cost": 248000,
+    "prep_instructions": "Blood tests and consent form required."
+  },
+  {
+    "id": 3,
+    "name": "Knee Replacement",
+    "category": "Orthopedics",
+    "description": "Knee Replacement - performed by our Orthopedics specialists.",
+    "estimated_cost": 350000,
+    "prep_instructions": "Pre-op assessment 1 week prior."
+  },
+  {
+    "id": 4,
+    "name": "Cataract Surgery",
+    "category": "Ophthalmology",
+    "description": "Cataract Surgery - performed by our Ophthalmology specialists.",
+    "estimated_cost": 32000,
+    "prep_instructions": "Avoid eye makeup on the day of surgery."
+  },
+  {
+    "id": 5,
+    "name": "Gallbladder Removal",
+    "category": "Surgery",
+    "description": "Gallbladder Removal - performed by our Surgery specialists.",
+    "estimated_cost": 62000,
+    "prep_instructions": "12 hours fasting required."
+  },
+  {
+    "id": 6,
+    "name": "Root Canal Treatment",
+    "category": "Dentistry",
+    "description": "Root Canal Treatment - performed by our Dentistry specialists.",
+    "estimated_cost": 11000,
+    "prep_instructions": "Avoid hot/cold food before procedure."
+  },
+  {
+    "id": 7,
+    "name": "Hernia Repair",
+    "category": "Surgery",
+    "description": "Hernia Repair - performed by our Surgery specialists.",
+    "estimated_cost": 45000,
+    "prep_instructions": "Fasting for 8 hours before surgery."
+  },
+  {
+    "id": 8,
+    "name": "Cesarean Delivery",
+    "category": "Gynecology",
+    "description": "Cesarean Delivery - performed by our Gynecology specialists.",
+    "estimated_cost": 57000,
+    "prep_instructions": "Admission 1 day prior recommended."
+  },
+  {
+    "id": 9,
+    "name": "Colonoscopy",
+    "category": "Gastroenterology",
+    "description": "Colonoscopy - performed by our Gastroenterology specialists.",
+    "estimated_cost": 13000,
+    "prep_instructions": "Special diet 1 day before procedure."
+  },
+  {
+    "id": 10,
+    "name": "Hip Replacement",
+    "category": "Orthopedics",
+    "description": "Hip Replacement - performed by our Orthopedics specialists.",
+    "estimated_cost": 385000,
+    "prep_instructions": "Pre-op physiotherapy assessment required."
+  },
+  {
+    "id": 11,
+    "name": "Appendectomy",
+    "category": "Surgery",
+    "description": "Appendectomy - performed by our Surgery specialists.",
+    "estimated_cost": 45000,
+    "prep_instructions": "8 hours fasting required before surgery."
+  },
+  {
+    "id": 12,
+    "name": "Angioplasty",
+    "category": "Cardiology",
+    "description": "Angioplasty - performed by our Cardiology specialists.",
+    "estimated_cost": 250000,
+    "prep_instructions": "Blood tests and consent form required."
+  },
+  {
+    "id": 13,
+    "name": "Knee Replacement",
+    "category": "Orthopedics",
+    "description": "Knee Replacement - performed by our Orthopedics specialists.",
+    "estimated_cost": 350000,
+    "prep_instructions": "Pre-op assessment 1 week prior."
+  },
+  {
+    "id": 14,
+    "name": "Cataract Surgery",
+    "category": "Ophthalmology",
+    "description": "Cataract Surgery - performed by our Ophthalmology specialists.",
+    "estimated_cost": 32000,
+    "prep_instructions": "Avoid eye makeup on the day of surgery."
+  },
+  {
+    "id": 15,
+    "name": "Gallbladder Removal",
+    "category": "Surgery",
+    "description": "Gallbladder Removal - performed by our Surgery specialists.",
+    "estimated_cost": 58000,
+    "prep_instructions": "12 hours fasting required."
+  },
+  {
+    "id": 16,
+    "name": "Root Canal Treatment",
+    "category": "Dentistry",
+    "description": "Root Canal Treatment - performed by our Dentistry specialists.",
+    "estimated_cost": 8000,
+    "prep_instructions": "Avoid hot/cold food before procedure."
+  },
+  {
+    "id": 17,
+    "name": "Hernia Repair",
+    "category": "Surgery",
+    "description": "Hernia Repair - performed by our Surgery specialists.",
+    "estimated_cost": 42000,
+    "prep_instructions": "Fasting for 8 hours before surgery."
+  },
+  {
+    "id": 18,
+    "name": "Cesarean Delivery",
+    "category": "Gynecology",
+    "description": "Cesarean Delivery - performed by our Gynecology specialists.",
+    "estimated_cost": 55000,
+    "prep_instructions": "Admission 1 day prior recommended."
+  },
+  {
+    "id": 19,
+    "name": "Colonoscopy",
+    "category": "Gastroenterology",
+    "description": "Colonoscopy - performed by our Gastroenterology specialists.",
+    "estimated_cost": 8000,
+    "prep_instructions": "Special diet 1 day before procedure."
+  },
+  {
+    "id": 20,
+    "name": "Hip Replacement",
+    "category": "Orthopedics",
+    "description": "Hip Replacement - performed by our Orthopedics specialists.",
+    "estimated_cost": 385000,
+    "prep_instructions": "Pre-op physiotherapy assessment required."
+  },
+  {
+    "id": 21,
+    "name": "Appendectomy",
+    "category": "Surgery",
+    "description": "Appendectomy - performed by our Surgery specialists.",
+    "estimated_cost": 43000,
+    "prep_instructions": "8 hours fasting required before surgery."
+  },
+  {
+    "id": 22,
+    "name": "Angioplasty",
+    "category": "Cardiology",
+    "description": "Angioplasty - performed by our Cardiology specialists.",
+    "estimated_cost": 250000,
+    "prep_instructions": "Blood tests and consent form required."
+  },
+  {
+    "id": 23,
+    "name": "Knee Replacement",
+    "category": "Orthopedics",
+    "description": "Knee Replacement - performed by our Orthopedics specialists.",
+    "estimated_cost": 355000,
+    "prep_instructions": "Pre-op assessment 1 week prior."
+  },
+  {
+    "id": 24,
+    "name": "Cataract Surgery",
+    "category": "Ophthalmology",
+    "description": "Cataract Surgery - performed by our Ophthalmology specialists.",
+    "estimated_cost": 28000,
+    "prep_instructions": "Avoid eye makeup on the day of surgery."
+  },
+  {
+    "id": 25,
+    "name": "Gallbladder Removal",
+    "category": "Surgery",
+    "description": "Gallbladder Removal - performed by our Surgery specialists.",
+    "estimated_cost": 60000,
+    "prep_instructions": "12 hours fasting required."
+  },
+  {
+    "id": 26,
+    "name": "Root Canal Treatment",
+    "category": "Dentistry",
+    "description": "Root Canal Treatment - performed by our Dentistry specialists.",
+    "estimated_cost": 8000,
+    "prep_instructions": "Avoid hot/cold food before procedure."
+  },
+  {
+    "id": 27,
+    "name": "Hernia Repair",
+    "category": "Surgery",
+    "description": "Hernia Repair - performed by our Surgery specialists.",
+    "estimated_cost": 42000,
+    "prep_instructions": "Fasting for 8 hours before surgery."
+  },
+  {
+    "id": 28,
+    "name": "Cesarean Delivery",
+    "category": "Gynecology",
+    "description": "Cesarean Delivery - performed by our Gynecology specialists.",
+    "estimated_cost": 53000,
+    "prep_instructions": "Admission 1 day prior recommended."
+  },
+  {
+    "id": 29,
+    "name": "Colonoscopy",
+    "category": "Gastroenterology",
+    "description": "Colonoscopy - performed by our Gastroenterology specialists.",
+    "estimated_cost": 6000,
+    "prep_instructions": "Special diet 1 day before procedure."
+  },
+  {
+    "id": 30,
+    "name": "Hip Replacement",
+    "category": "Orthopedics",
+    "description": "Hip Replacement - performed by our Orthopedics specialists.",
+    "estimated_cost": 380000,
+    "prep_instructions": "Pre-op physiotherapy assessment required."
+  },
+  {
+    "id": 31,
+    "name": "Appendectomy",
+    "category": "Surgery",
+    "description": "Appendectomy - performed by our Surgery specialists.",
+    "estimated_cost": 45000,
+    "prep_instructions": "8 hours fasting required before surgery."
+  },
+  {
+    "id": 32,
+    "name": "Angioplasty",
+    "category": "Cardiology",
+    "description": "Angioplasty - performed by our Cardiology specialists.",
+    "estimated_cost": 248000,
+    "prep_instructions": "Blood tests and consent form required."
+  },
+  {
+    "id": 33,
+    "name": "Knee Replacement",
+    "category": "Orthopedics",
+    "description": "Knee Replacement - performed by our Orthopedics specialists.",
+    "estimated_cost": 348000,
+    "prep_instructions": "Pre-op assessment 1 week prior."
+  },
+  {
+    "id": 34,
+    "name": "Cataract Surgery",
+    "category": "Ophthalmology",
+    "description": "Cataract Surgery - performed by our Ophthalmology specialists.",
+    "estimated_cost": 35000,
+    "prep_instructions": "Avoid eye makeup on the day of surgery."
+  },
+  {
+    "id": 35,
+    "name": "Gallbladder Removal",
+    "category": "Surgery",
+    "description": "Gallbladder Removal - performed by our Surgery specialists.",
+    "estimated_cost": 65000,
+    "prep_instructions": "12 hours fasting required."
+  },
+  {
+    "id": 36,
+    "name": "Root Canal Treatment",
+    "category": "Dentistry",
+    "description": "Root Canal Treatment - performed by our Dentistry specialists.",
+    "estimated_cost": 11000,
+    "prep_instructions": "Avoid hot/cold food before procedure."
+  },
+  {
+    "id": 37,
+    "name": "Hernia Repair",
+    "category": "Surgery",
+    "description": "Hernia Repair - performed by our Surgery specialists.",
+    "estimated_cost": 42000,
+    "prep_instructions": "Fasting for 8 hours before surgery."
+  },
+  {
+    "id": 38,
+    "name": "Cesarean Delivery",
+    "category": "Gynecology",
+    "description": "Cesarean Delivery - performed by our Gynecology specialists.",
+    "estimated_cost": 57000,
+    "prep_instructions": "Admission 1 day prior recommended."
+  },
+  {
+    "id": 39,
+    "name": "Colonoscopy",
+    "category": "Gastroenterology",
+    "description": "Colonoscopy - performed by our Gastroenterology specialists.",
+    "estimated_cost": 13000,
+    "prep_instructions": "Special diet 1 day before procedure."
+  },
+  {
+    "id": 40,
+    "name": "Hip Replacement",
+    "category": "Orthopedics",
+    "description": "Hip Replacement - performed by our Orthopedics specialists.",
+    "estimated_cost": 385000,
+    "prep_instructions": "Pre-op physiotherapy assessment required."
+  }
+]

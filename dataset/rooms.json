@@ -1,0 +1,1122 @@
+[
+  {
+    "id": 1,
+    "floor_id": 1,
+    "room_number": "001",
+    "room_type": "Lab",
+    "department_name": "Cardiology"
+  },
+  {
+    "id": 2,
+    "floor_id": 1,
+    "room_number": "002",
+    "room_type": "Consultation",
+    "department_name": "Laboratory"
+  },
+  {
+    "id": 3,
+    "floor_id": 1,
+    "room_number": "003",
+    "room_type": "ICU",
+    "department_name": "Oncology"
+  },
+  {
+    "id": 4,
+    "floor_id": 1,
+    "room_number": "004",
+    "room_type": "Lab",
+    "department_name": "Pharmacy"
+  },
+  {
+    "id": 5,
+    "floor_id": 1,
+    "room_number": "005",
+    "room_type": "Ward",
+    "department_name": "Emergency"
+  },
+  {
+    "id": 6,
+    "floor_id": 1,
+    "room_number": "006",
+    "room_type": "Lab",
+    "department_name": "Cardiology"
+  },
+  {
+    "id": 7,
+    "floor_id": 1,
+    "room_number": "007",
+    "room_type": "Procedure Room",
+    "department_name": "Neurology"
+  },
+  {
+    "id": 8,
+    "floor_id": 1,
+    "room_number": "008",
+    "room_type": "Consultation",
+    "department_name": "ENT"
+  },
+  {
+    "id": 9,
+    "floor_id": 2,
+    "room_number": "101",
+    "room_type": "Pharmacy",
+    "department_name": "Orthopedics"
+  },
+  {
+    "id": 10,
+    "floor_id": 2,
+    "room_number": "102",
+    "room_type": "OPD",
+    "department_name": "Pulmonology"
+  },
+  {
+    "id": 11,
+    "floor_id": 2,
+    "room_number": "103",
+    "room_type": "Consultation",
+    "department_name": "Pediatrics"
+  },
+  {
+    "id": 12,
+    "floor_id": 2,
+    "room_number": "104",
+    "room_type": "Lab",
+    "department_name": "Nephrology"
+  },
+  {
+    "id": 13,
+    "floor_id": 2,
+    "room_number": "105",
+    "room_type": "Pharmacy",
+    "department_name": "Emergency"
+  },
+  {
+    "id": 14,
+    "floor_id": 2,
+    "room_number": "106",
+    "room_type": "Ward",
+    "department_name": "Pharmacy"
+  },
+  {
+    "id": 15,
+    "floor_id": 2,
+    "room_number": "107",
+    "room_type": "ICU",
+    "department_name": "Ophthalmology"
+  },
+  {
+    "id": 16,
+    "floor_id": 2,
+    "room_number": "108",
+    "room_type": "Lab",
+    "department_name": "Dermatology"
+  },
+  {
+    "id": 17,
+    "floor_id": 3,
+    "room_number": "201",
+    "room_type": "Procedure Room",
+    "department_name": "Psychiatry"
+  },
+  {
+    "id": 18,
+    "floor_id": 3,
+    "room_number": "202",
+    "room_type": "Consultation",
+    "department_name": "ENT"
+  },
+  {
+    "id": 19,
+    "floor_id": 3,
+    "room_number": "203",
+    "room_type": "OPD",
+    "department_name": "Pharmacy"
+  },
+  {
+    "id": 20,
+    "floor_id": 3,
+    "room_number": "204",
+    "room_type": "OPD",
+    "department_name": "ENT"
+  },
+  {
+    "id": 21,
+    "floor_id": 3,
+    "room_number": "205",
+    "room_type": "OPD",
+    "department_name": "ENT"
+  },
+  {
+    "id": 22,
+    "floor_id": 3,
+    "room_number": "206",
+    "room_type": "Consultation",
+    "department_name": "Radiology & Imaging"
+  },
+  {
+    "id": 23,
+    "floor_id": 3,
+    "room_number": "207",
+    "room_type": "ICU",
+    "department_name": "Dentistry"
+  },
+  {
+    "id": 24,
+    "floor_id": 3,
+    "room_number": "208",
+    "room_type": "Consultation",
+    "department_name": "Gynecology"
+  },
+  {
+    "id": 25,
+    "floor_id": 4,
+    "room_number": "301",
+    "room_type": "Procedure Room",
+    "department_name": "Pharmacy"
+  },
+  {
+    "id": 26,
+    "floor_id": 4,
+    "room_number": "302",
+    "room_type": "ICU",
+    "department_name": "Gastroenterology"
+  },
+  {
+    "id": 27,
+    "floor_id": 4,
+    "room_number": "303",
+    "room_type": "Pharmacy",
+    "department_name": "Orthopedics"
+  },
+  {
+    "id": 28,
+    "floor_id": 4,
+    "room_number": "304",
+    "room_type": "ICU",
+    "department_name": "Gastroenterology"
+  },
+  {
+    "id": 29,
+    "floor_id": 4,
+    "room_number": "305",
+    "room_type": "Consultation",
+    "department_name": "Dermatology"
+  },
+  {
+    "id": 30,
+    "floor_id": 4,
+    "room_number": "306",
+    "room_type": "Ward",
+    "department_name": "Dentistry"
+  },
+  {
+    "id": 31,
+    "floor_id": 4,
+    "room_number": "307",
+    "room_type": "Consultation",
+    "department_name": "Pharmacy"
+  },
+  {
+    "id": 32,
+    "floor_id": 4,
+    "room_number": "308",
+    "room_type": "ICU",
+    "department_name": "Orthopedics"
+  },
+  {
+    "id": 33,
+    "floor_id": 5,
+    "room_number": "401",
+    "room_type": "Lab",
+    "department_name": "Radiology & Imaging"
+  },
+  {
+    "id": 34,
+    "floor_id": 5,
+    "room_number": "402",
+    "room_type": "Procedure Room",
+    "department_name": "ENT"
+  },
+  {
+    "id": 35,
+    "floor_id": 5,
+    "room_number": "403",
+    "room_type": "Consultation",
+    "department_name": "Gastroenterology"
+  },
+  {
+    "id": 36,
+    "floor_id": 5,
+    "room_number": "404",
+    "room_type": "OPD",
+    "department_name": "Emergency"
+  },
+  {
+    "id": 37,
+    "floor_id": 5,
+    "room_number": "405",
+    "room_type": "Pharmacy",
+    "department_name": "Psychiatry"
+  },
+  {
+    "id": 38,
+    "floor_id": 5,
+    "room_number": "406",
+    "room_type": "OPD",
+    "department_name": "Ophthalmology"
+  },
+  {
+    "id": 39,
+    "floor_id": 5,
+    "room_number": "407",
+    "room_type": "ICU",
+    "department_name": "Ophthalmology"
+  },
+  {
+    "id": 40,
+    "floor_id": 5,
+    "room_number": "408",
+    "room_type": "Ward",
+    "department_name": "Pulmonology"
+  },
+  {
+    "id": 41,
+    "floor_id": 6,
+    "room_number": "001",
+    "room_type": "Procedure Room",
+    "department_name": "ENT"
+  },
+  {
+    "id": 42,
+    "floor_id": 6,
+    "room_number": "002",
+    "room_type": "Ward",
+    "department_name": "Urology"
+  },
+  {
+    "id": 43,
+    "floor_id": 6,
+    "room_number": "003",
+    "room_type": "Ward",
+    "department_name": "Pediatrics"
+  },
+  {
+    "id": 44,
+    "floor_id": 6,
+    "room_number": "004",
+    "room_type": "OPD",
+    "department_name": "Gastroenterology"
+  },
+  {
+    "id": 45,
+    "floor_id": 6,
+    "room_number": "005",
+    "room_type": "Procedure Room",
+    "department_name": "Dermatology"
+  },
+  {
+    "id": 46,
+    "floor_id": 6,
+    "room_number": "006",
+    "room_type": "Pharmacy",
+    "department_name": "Neurology"
+  },
+  {
+    "id": 47,
+    "floor_id": 6,
+    "room_number": "007",
+    "room_type": "Procedure Room",
+    "department_name": "Radiology & Imaging"
+  },
+  {
+    "id": 48,
+    "floor_id": 6,
+    "room_number": "008",
+    "room_type": "OPD",
+    "department_name": "Emergency"
+  },
+  {
+    "id": 49,
+    "floor_id": 7,
+    "room_number": "101",
+    "room_type": "Procedure Room",
+    "department_name": "ENT"
+  },
+  {
+    "id": 50,
+    "floor_id": 7,
+    "room_number": "102",
+    "room_type": "Ward",
+    "department_name": "Pharmacy"
+  },
+  {
+    "id": 51,
+    "floor_id": 7,
+    "room_number": "103",
+    "room_type": "Lab",
+    "department_name": "Pharmacy"
+  },
+  {
+    "id": 52,
+    "floor_id": 7,
+    "room_number": "104",
+    "room_type": "Ward",
+    "department_name": "Gastroenterology"
+  },
+  {
+    "id": 53,
+    "floor_id": 7,
+    "room_number": "105",
+    "room_type": "Procedure Room",
+    "department_name": "Pulmonology"
+  },
+  {
+    "id": 54,
+    "floor_id": 7,
+    "room_number": "106",
+    "room_type": "Procedure Room",
+    "department_name": "Pharmacy"
+  },
+  {
+    "id": 55,
+    "floor_id": 7,
+    "room_number": "107",
+    "room_type": "Consultation",
+    "department_name": "Pulmonology"
+  },
+  {
+    "id": 56,
+    "floor_id": 7,
+    "room_number": "108",
+    "room_type": "OPD",
+    "department_name": "Nephrology"
+  },
+  {
+    "id": 57,
+    "floor_id": 8,
+    "room_number": "201",
+    "room_type": "ICU",
+    "department_name": "Psychiatry"
+  },
+  {
+    "id": 58,
+    "floor_id": 8,
+    "room_number": "202",
+    "room_type": "Lab",
+    "department_name": "Pediatrics"
+  },
+  {
+    "id": 59,
+    "floor_id": 8,
+    "room_number": "203",
+    "room_type": "ICU",
+    "department_name": "Pharmacy"
+  },
+  {
+    "id": 60,
+    "floor_id": 8,
+    "room_number": "204",
+    "room_type": "Ward",
+    "department_name": "Nephrology"
+  },
+  {
+    "id": 61,
+    "floor_id": 8,
+    "room_number": "205",
+    "room_type": "Ward",
+    "department_name": "Radiology & Imaging"
+  },
+  {
+    "id": 62,
+    "floor_id": 8,
+    "room_number": "206",
+    "room_type": "Procedure Room",
+    "department_name": "Dermatology"
+  },
+  {
+    "id": 63,
+    "floor_id": 8,
+    "room_number": "207",
+    "room_type": "Procedure Room",
+    "department_name": "Urology"
+  },
+  {
+    "id": 64,
+    "floor_id": 8,
+    "room_number": "208",
+    "room_type": "ICU",
+    "department_name": "Oncology"
+  },
+  {
+    "id": 65,
+    "floor_id": 9,
+    "room_number": "301",
+    "room_type": "Lab",
+    "department_name": "Laboratory"
+  },
+  {
+    "id": 66,
+    "floor_id": 9,
+    "room_number": "302",
+    "room_type": "Procedure Room",
+    "department_name": "Nephrology"
+  },
+  {
+    "id": 67,
+    "floor_id": 9,
+    "room_number": "303",
+    "room_type": "Procedure Room",
+    "department_name": "Dermatology"
+  },
+  {
+    "id": 68,
+    "floor_id": 9,
+    "room_number": "304",
+    "room_type": "Pharmacy",
+    "department_name": "Dentistry"
+  },
+  {
+    "id": 69,
+    "floor_id": 9,
+    "room_number": "305",
+    "room_type": "Lab",
+    "department_name": "Emergency"
+  },
+  {
+    "id": 70,
+    "floor_id": 9,
+    "room_number": "306",
+    "room_type": "Procedure Room",
+    "department_name": "Pulmonology"
+  },
+  {
+    "id": 71,
+    "floor_id": 9,
+    "room_number": "307",
+    "room_type": "Procedure Room",
+    "department_name": "Oncology"
+  },
+  {
+    "id": 72,
+    "floor_id": 9,
+    "room_number": "308",
+    "room_type": "Ward",
+    "department_name": "Pharmacy"
+  },
+  {
+    "id": 73,
+    "floor_id": 10,
+    "room_number": "401",
+    "room_type": "OPD",
+    "department_name": "Gynecology"
+  },
+  {
+    "id": 74,
+    "floor_id": 10,
+    "room_number": "402",
+    "room_type": "Procedure Room",
+    "department_name": "Urology"
+  },
+  {
+    "id": 75,
+    "floor_id": 10,
+    "room_number": "403",
+    "room_type": "Pharmacy",
+    "department_name": "Ophthalmology"
+  },
+  {
+    "id": 76,
+    "floor_id": 10,
+    "room_number": "404",
+    "room_type": "Consultation",
+    "department_name": "Neurology"
+  },
+  {
+    "id": 77,
+    "floor_id": 10,
+    "room_number": "405",
+    "room_type": "Procedure Room",
+    "department_name": "Emergency"
+  },
+  {
+    "id": 78,
+    "floor_id": 10,
+    "room_number": "406",
+    "room_type": "ICU",
+    "department_name": "Neurology"
+  },
+  {
+    "id": 79,
+    "floor_id": 10,
+    "room_number": "407",
+    "room_type": "Procedure Room",
+    "department_name": "Orthopedics"
+  },
+  {
+    "id": 80,
+    "floor_id": 10,
+    "room_number": "408",
+    "room_type": "ICU",
+    "department_name": "Pulmonology"
+  },
+  {
+    "id": 81,
+    "floor_id": 11,
+    "room_number": "001",
+    "room_type": "Pharmacy",
+    "department_name": "Nephrology"
+  },
+  {
+    "id": 82,
+    "floor_id": 11,
+    "room_number": "002",
+    "room_type": "Procedure Room",
+    "department_name": "Gastroenterology"
+  },
+  {
+    "id": 83,
+    "floor_id": 11,
+    "room_number": "003",
+    "room_type": "OPD",
+    "department_name": "Psychiatry"
+  },
+  {
+    "id": 84,
+    "floor_id": 11,
+    "room_number": "004",
+    "room_type": "Procedure Room",
+    "department_name": "Pediatrics"
+  },
+  {
+    "id": 85,
+    "floor_id": 11,
+    "room_number": "005",
+    "room_type": "ICU",
+    "department_name": "Nephrology"
+  },
+  {
+    "id": 86,
+    "floor_id": 11,
+    "room_number": "006",
+    "room_type": "Lab",
+    "department_name": "General Medicine"
+  },
+  {
+    "id": 87,
+    "floor_id": 11,
+    "room_number": "007",
+    "room_type": "Lab",
+    "department_name": "Cardiology"
+  },
+  {
+    "id": 88,
+    "floor_id": 11,
+    "room_number": "008",
+    "room_type": "ICU",
+    "department_name": "Emergency"
+  },
+  {
+    "id": 89,
+    "floor_id": 12,
+    "room_number": "101",
+    "room_type": "Lab",
+    "department_name": "Pediatrics"
+  },
+  {
+    "id": 90,
+    "floor_id": 12,
+    "room_number": "102",
+    "room_type": "ICU",
+    "department_name": "Orthopedics"
+  },
+  {
+    "id": 91,
+    "floor_id": 12,
+    "room_number": "103",
+    "room_type": "OPD",
+    "department_name": "Pediatrics"
+  },
+  {
+    "id": 92,
+    "floor_id": 12,
+    "room_number": "104",
+    "room_type": "OPD",
+    "department_name": "ENT"
+  },
+  {
+    "id": 93,
+    "floor_id": 12,
+    "room_number": "105",
+    "room_type": "Procedure Room",
+    "department_name": "ENT"
+  },
+  {
+    "id": 94,
+    "floor_id": 12,
+    "room_number": "106",
+    "room_type": "Ward",
+    "department_name": "Gastroenterology"
+  },
+  {
+    "id": 95,
+    "floor_id": 12,
+    "room_number": "107",
+    "room_type": "ICU",
+    "department_name": "Cardiology"
+  },
+  {
+    "id": 96,
+    "floor_id": 12,
+    "room_number": "108",
+    "room_type": "Consultation",
+    "department_name": "Urology"
+  },
+  {
+    "id": 97,
+    "floor_id": 13,
+    "room_number": "201",
+    "room_type": "Procedure Room",
+    "department_name": "Gastroenterology"
+  },
+  {
+    "id": 98,
+    "floor_id": 13,
+    "room_number": "202",
+    "room_type": "Lab",
+    "department_name": "Urology"
+  },
+  {
+    "id": 99,
+    "floor_id": 13,
+    "room_number": "203",
+    "room_type": "OPD",
+    "department_name": "Pharmacy"
+  },
+  {
+    "id": 100,
+    "floor_id": 13,
+    "room_number": "204",
+    "room_type": "OPD",
+    "department_name": "Orthopedics"
+  },
+  {
+    "id": 101,
+    "floor_id": 13,
+    "room_number": "205",
+    "room_type": "Ward",
+    "department_name": "Gynecology"
+  },
+  {
+    "id": 102,
+    "floor_id": 13,
+    "room_number": "206",
+    "room_type": "Pharmacy",
+    "department_name": "Gastroenterology"
+  },
+  {
+    "id": 103,
+    "floor_id": 13,
+    "room_number": "207",
+    "room_type": "Pharmacy",
+    "department_name": "Pharmacy"
+  },
+  {
+    "id": 104,
+    "floor_id": 13,
+    "room_number": "208",
+    "room_type": "OPD",
+    "department_name": "Psychiatry"
+  },
+  {
+    "id": 105,
+    "floor_id": 14,
+    "room_number": "301",
+    "room_type": "Ward",
+    "department_name": "Dermatology"
+  },
+  {
+    "id": 106,
+    "floor_id": 14,
+    "room_number": "302",
+    "room_type": "OPD",
+    "department_name": "Dermatology"
+  },
+  {
+    "id": 107,
+    "floor_id": 14,
+    "room_number": "303",
+    "room_type": "Ward",
+    "department_name": "Cardiology"
+  },
+  {
+    "id": 108,
+    "floor_id": 14,
+    "room_number": "304",
+    "room_type": "Consultation",
+    "department_name": "Psychiatry"
+  },
+  {
+    "id": 109,
+    "floor_id": 14,
+    "room_number": "305",
+    "room_type": "Lab",
+    "department_name": "Pharmacy"
+  },
+  {
+    "id": 110,
+    "floor_id": 14,
+    "room_number": "306",
+    "room_type": "OPD",
+    "department_name": "Orthopedics"
+  },
+  {
+    "id": 111,
+    "floor_id": 14,
+    "room_number": "307",
+    "room_type": "Pharmacy",
+    "department_name": "Urology"
+  },
+  {
+    "id": 112,
+    "floor_id": 14,
+    "room_number": "308",
+    "room_type": "OPD",
+    "department_name": "Radiology & Imaging"
+  },
+  {
+    "id": 113,
+    "floor_id": 15,
+    "room_number": "401",
+    "room_type": "Pharmacy",
+    "department_name": "Emergency"
+  },
+  {
+    "id": 114,
+    "floor_id": 15,
+    "room_number": "402",
+    "room_type": "Consultation",
+    "department_name": "Pediatrics"
+  },
+  {
+    "id": 115,
+    "floor_id": 15,
+    "room_number": "403",
+    "room_type": "ICU",
+    "department_name": "Gastroenterology"
+  },
+  {
+    "id": 116,
+    "floor_id": 15,
+    "room_number": "404",
+    "room_type": "OPD",
+    "department_name": "Psychiatry"
+  },
+  {
+    "id": 117,
+    "floor_id": 15,
+    "room_number": "405",
+    "room_type": "ICU",
+    "department_name": "Pharmacy"
+  },
+  {
+    "id": 118,
+    "floor_id": 15,
+    "room_number": "406",
+    "room_type": "Pharmacy",
+    "department_name": "Pediatrics"
+  },
+  {
+    "id": 119,
+    "floor_id": 15,
+    "room_number": "407",
+    "room_type": "Ward",
+    "department_name": "Psychiatry"
+  },
+  {
+    "id": 120,
+    "floor_id": 15,
+    "room_number": "408",
+    "room_type": "Pharmacy",
+    "department_name": "Orthopedics"
+  },
+  {
+    "id": 121,
+    "floor_id": 16,
+    "room_number": "001",
+    "room_type": "OPD",
+    "department_name": "Ophthalmology"
+  },
+  {
+    "id": 122,
+    "floor_id": 16,
+    "room_number": "002",
+    "room_type": "Pharmacy",
+    "department_name": "Emergency"
+  },
+  {
+    "id": 123,
+    "floor_id": 16,
+    "room_number": "003",
+    "room_type": "Procedure Room",
+    "department_name": "Emergency"
+  },
+  {
+    "id": 124,
+    "floor_id": 16,
+    "room_number": "004",
+    "room_type": "Pharmacy",
+    "department_name": "Emergency"
+  },
+  {
+    "id": 125,
+    "floor_id": 16,
+    "room_number": "005",
+    "room_type": "Lab",
+    "department_name": "General Medicine"
+  },
+  {
+    "id": 126,
+    "floor_id": 16,
+    "room_number": "006",
+    "room_type": "OPD",
+    "department_name": "Urology"
+  },
+  {
+    "id": 127,
+    "floor_id": 16,
+    "room_number": "007",
+    "room_type": "ICU",
+    "department_name": "Dentistry"
+  },
+  {
+    "id": 128,
+    "floor_id": 16,
+    "room_number": "008",
+    "room_type": "Consultation",
+    "department_name": "Gynecology"
+  },
+  {
+    "id": 129,
+    "floor_id": 17,
+    "room_number": "101",
+    "room_type": "ICU",
+    "department_name": "General Medicine"
+  },
+  {
+    "id": 130,
+    "floor_id": 17,
+    "room_number": "102",
+    "room_type": "ICU",
+    "department_name": "Orthopedics"
+  },
+  {
+    "id": 131,
+    "floor_id": 17,
+    "room_number": "103",
+    "room_type": "Consultation",
+    "department_name": "Pediatrics"
+  },
+  {
+    "id": 132,
+    "floor_id": 17,
+    "room_number": "104",
+    "room_type": "Procedure Room",
+    "department_name": "Neurology"
+  },
+  {
+    "id": 133,
+    "floor_id": 17,
+    "room_number": "105",
+    "room_type": "Consultation",
+    "department_name": "Laboratory"
+  },
+  {
+    "id": 134,
+    "floor_id": 17,
+    "room_number": "106",
+    "room_type": "Ward",
+    "department_name": "ENT"
+  },
+  {
+    "id": 135,
+    "floor_id": 17,
+    "room_number": "107",
+    "room_type": "ICU",
+    "department_name": "Cardiology"
+  },
+  {
+    "id": 136,
+    "floor_id": 17,
+    "room_number": "108",
+    "room_type": "ICU",
+    "department_name": "Radiology & Imaging"
+  },
+  {
+    "id": 137,
+    "floor_id": 18,
+    "room_number": "201",
+    "room_type": "Procedure Room",
+    "department_name": "Pulmonology"
+  },
+  {
+    "id": 138,
+    "floor_id": 18,
+    "room_number": "202",
+    "room_type": "Consultation",
+    "department_name": "Nephrology"
+  },
+  {
+    "id": 139,
+    "floor_id": 18,
+    "room_number": "203",
+    "room_type": "Consultation",
+    "department_name": "Urology"
+  },
+  {
+    "id": 140,
+    "floor_id": 18,
+    "room_number": "204",
+    "room_type": "Procedure Room",
+    "department_name": "Pulmonology"
+  },
+  {
+    "id": 141,
+    "floor_id": 18,
+    "room_number": "205",
+    "room_type": "OPD",
+    "department_name": "Gastroenterology"
+  },
+  {
+    "id": 142,
+    "floor_id": 18,
+    "room_number": "206",
+    "room_type": "OPD",
+    "department_name": "Nephrology"
+  },
+  {
+    "id": 143,
+    "floor_id": 18,
+    "room_number": "207",
+    "room_type": "Ward",
+    "department_name": "Dermatology"
+  },
+  {
+    "id": 144,
+    "floor_id": 18,
+    "room_number": "208",
+    "room_type": "Procedure Room",
+    "department_name": "Cardiology"
+  },
+  {
+    "id": 145,
+    "floor_id": 19,
+    "room_number": "301",
+    "room_type": "OPD",
+    "department_name": "Oncology"
+  },
+  {
+    "id": 146,
+    "floor_id": 19,
+    "room_number": "302",
+    "room_type": "ICU",
+    "department_name": "ENT"
+  },
+  {
+    "id": 147,
+    "floor_id": 19,
+    "room_number": "303",
+    "room_type": "Lab",
+    "department_name": "Emergency"
+  },
+  {
+    "id": 148,
+    "floor_id": 19,
+    "room_number": "304",
+    "room_type": "Lab",
+    "department_name": "Radiology & Imaging"
+  },
+  {
+    "id": 149,
+    "floor_id": 19,
+    "room_number": "305",
+    "room_type": "OPD",
+    "department_name": "Gynecology"
+  },
+  {
+    "id": 150,
+    "floor_id": 19,
+    "room_number": "306",
+    "room_type": "ICU",
+    "department_name": "Oncology"
+  },
+  {
+    "id": 151,
+    "floor_id": 19,
+    "room_number": "307",
+    "room_type": "Procedure Room",
+    "department_name": "Ophthalmology"
+  },
+  {
+    "id": 152,
+    "floor_id": 19,
+    "room_number": "308",
+    "room_type": "Procedure Room",
+    "department_name": "Cardiology"
+  },
+  {
+    "id": 153,
+    "floor_id": 20,
+    "room_number": "401",
+    "room_type": "ICU",
+    "department_name": "ENT"
+  },
+  {
+    "id": 154,
+    "floor_id": 20,
+    "room_number": "402",
+    "room_type": "Procedure Room",
+    "department_name": "Neurology"
+  },
+  {
+    "id": 155,
+    "floor_id": 20,
+    "room_number": "403",
+    "room_type": "Lab",
+    "department_name": "Ophthalmology"
+  },
+  {
+    "id": 156,
+    "floor_id": 20,
+    "room_number": "404",
+    "room_type": "Consultation",
+    "department_name": "Dentistry"
+  },
+  {
+    "id": 157,
+    "floor_id": 20,
+    "room_number": "405",
+    "room_type": "Lab",
+    "department_name": "Nephrology"
+  },
+  {
+    "id": 158,
+    "floor_id": 20,
+    "room_number": "406",
+    "room_type": "Ward",
+    "department_name": "ENT"
+  },
+  {
+    "id": 159,
+    "floor_id": 20,
+    "room_number": "407",
+    "room_type": "Consultation",
+    "department_name": "Urology"
+  },
+  {
+    "id": 160,
+    "floor_id": 20,
+    "room_number": "408",
+    "room_type": "ICU",
+    "department_name": "Urology"
+  }
+]

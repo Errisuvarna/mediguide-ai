@@ -1,0 +1,161 @@
+id,floor_id,room_number,room_type,department_name
+1,1,001,Lab,Cardiology
+2,1,002,Consultation,Laboratory
+3,1,003,ICU,Oncology
+4,1,004,Lab,Pharmacy
+5,1,005,Ward,Emergency
+6,1,006,Lab,Cardiology
+7,1,007,Procedure Room,Neurology
+8,1,008,Consultation,ENT
+9,2,101,Pharmacy,Orthopedics
+10,2,102,OPD,Pulmonology
+11,2,103,Consultation,Pediatrics
+12,2,104,Lab,Nephrology
+13,2,105,Pharmacy,Emergency
+14,2,106,Ward,Pharmacy
+15,2,107,ICU,Ophthalmology
+16,2,108,Lab,Dermatology
+17,3,201,Procedure Room,Psychiatry
+18,3,202,Consultation,ENT
+19,3,203,OPD,Pharmacy
+20,3,204,OPD,ENT
+21,3,205,OPD,ENT
+22,3,206,Consultation,Radiology & Imaging
+23,3,207,ICU,Dentistry
+24,3,208,Consultation,Gynecology
+25,4,301,Procedure Room,Pharmacy
+26,4,302,ICU,Gastroenterology
+27,4,303,Pharmacy,Orthopedics
+28,4,304,ICU,Gastroenterology
+29,4,305,Consultation,Dermatology
+30,4,306,Ward,Dentistry
+31,4,307,Consultation,Pharmacy
+32,4,308,ICU,Orthopedics
+33,5,401,Lab,Radiology & Imaging
+34,5,402,Procedure Room,ENT
+35,5,403,Consultation,Gastroenterology
+36,5,404,OPD,Emergency
+37,5,405,Pharmacy,Psychiatry
+38,5,406,OPD,Ophthalmology
+39,5,407,ICU,Ophthalmology
+40,5,408,Ward,Pulmonology
+41,6,001,Procedure Room,ENT
+42,6,002,Ward,Urology
+43,6,003,Ward,Pediatrics
+44,6,004,OPD,Gastroenterology
+45,6,005,Procedure Room,Dermatology
+46,6,006,Pharmacy,Neurology
+47,6,007,Procedure Room,Radiology & Imaging
+48,6,008,OPD,Emergency
+49,7,101,Procedure Room,ENT
+50,7,102,Ward,Pharmacy
+51,7,103,Lab,Pharmacy
+52,7,104,Ward,Gastroenterology
+53,7,105,Procedure Room,Pulmonology
+54,7,106,Procedure Room,Pharmacy
+55,7,107,Consultation,Pulmonology
+56,7,108,OPD,Nephrology
+57,8,201,ICU,Psychiatry
+58,8,202,Lab,Pediatrics
+59,8,203,ICU,Pharmacy
+60,8,204,Ward,Nephrology
+61,8,205,Ward,Radiology & Imaging
+62,8,206,Procedure Room,Dermatology
+63,8,207,Procedure Room,Urology
+64,8,208,ICU,Oncology
+65,9,301,Lab,Laboratory
+66,9,302,Procedure Room,Nephrology
+67,9,303,Procedure Room,Dermatology
+68,9,304,Pharmacy,Dentistry
+69,9,305,Lab,Emergency
+70,9,306,Procedure Room,Pulmonology
+71,9,307,Procedure Room,Oncology
+72,9,308,Ward,Pharmacy
+73,10,401,OPD,Gynecology
+74,10,402,Procedure Room,Urology
+75,10,403,Pharmacy,Ophthalmology
+76,10,404,Consultation,Neurology
+77,10,405,Procedure Room,Emergency
+78,10,406,ICU,Neurology
+79,10,407,Procedure Room,Orthopedics
+80,10,408,ICU,Pulmonology
+81,11,001,Pharmacy,Nephrology
+82,11,002,Procedure Room,Gastroenterology
+83,11,003,OPD,Psychiatry
+84,11,004,Procedure Room,Pediatrics
+85,11,005,ICU,Nephrology
+86,11,006,Lab,General Medicine
+87,11,007,Lab,Cardiology
+88,11,008,ICU,Emergency
+89,12,101,Lab,Pediatrics
+90,12,102,ICU,Orthopedics
+91,12,103,OPD,Pediatrics
+92,12,104,OPD,ENT
+93,12,105,Procedure Room,ENT
+94,12,106,Ward,Gastroenterology
+95,12,107,ICU,Cardiology
+96,12,108,Consultation,Urology
+97,13,201,Procedure Room,Gastroenterology
+98,13,202,Lab,Urology
+99,13,203,OPD,Pharmacy
+100,13,204,OPD,Orthopedics
+101,13,205,Ward,Gynecology
+102,13,206,Pharmacy,Gastroenterology
+103,13,207,Pharmacy,Pharmacy
+104,13,208,OPD,Psychiatry
+105,14,301,Ward,Dermatology
+106,14,302,OPD,Dermatology
+107,14,303,Ward,Cardiology
+108,14,304,Consultation,Psychiatry
+109,14,305,Lab,Pharmacy
+110,14,306,OPD,Orthopedics
+111,14,307,Pharmacy,Urology
+112,14,308,OPD,Radiology & Imaging
+113,15,401,Pharmacy,Emergency
+114,15,402,Consultation,Pediatrics
+115,15,403,ICU,Gastroenterology
+116,15,404,OPD,Psychiatry
+117,15,405,ICU,Pharmacy
+118,15,406,Pharmacy,Pediatrics
+119,15,407,Ward,Psychiatry
+120,15,408,Pharmacy,Orthopedics
+121,16,001,OPD,Ophthalmology
+122,16,002,Pharmacy,Emergency
+123,16,003,Procedure Room,Emergency
+124,16,004,Pharmacy,Emergency
+125,16,005,Lab,General Medicine
+126,16,006,OPD,Urology
+127,16,007,ICU,Dentistry
+128,16,008,Consultation,Gynecology
+129,17,101,ICU,General Medicine
+130,17,102,ICU,Orthopedics
+131,17,103,Consultation,Pediatrics
+132,17,104,Procedure Room,Neurology
+133,17,105,Consultation,Laboratory
+134,17,106,Ward,ENT
+135,17,107,ICU,Cardiology
+136,17,108,ICU,Radiology & Imaging
+137,18,201,Procedure Room,Pulmonology
+138,18,202,Consultation,Nephrology
+139,18,203,Consultation,Urology
+140,18,204,Procedure Room,Pulmonology
+141,18,205,OPD,Gastroenterology
+142,18,206,OPD,Nephrology
+143,18,207,Ward,Dermatology
+144,18,208,Procedure Room,Cardiology
+145,19,301,OPD,Oncology
+146,19,302,ICU,ENT
+147,19,303,Lab,Emergency
+148,19,304,Lab,Radiology & Imaging
+149,19,305,OPD,Gynecology
+150,19,306,ICU,Oncology
+151,19,307,Procedure Room,Ophthalmology
+152,19,308,Procedure Room,Cardiology
+153,20,401,ICU,ENT
+154,20,402,Procedure Room,Neurology
+155,20,403,Lab,Ophthalmology
+156,20,404,Consultation,Dentistry
+157,20,405,Lab,Nephrology
+158,20,406,Ward,ENT
+159,20,407,Consultation,Urology
+160,20,408,ICU,Urology

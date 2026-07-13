@@ -1,0 +1,25 @@
+id,process_name,document_name,is_mandatory,notes
+1,Registration,Government ID Proof,yes,Required for the registration process.
+2,Registration,Address Proof,yes,Required for the registration process.
+3,Registration,Passport-size Photo,yes,Required for the registration process.
+4,Registration,Referral Letter (if any),no,Required for the registration process.
+5,Admission,ID Proof,yes,Required for the admission process.
+6,Admission,Insurance Card / Policy Document,yes,Required for the admission process.
+7,Admission,Admission Deposit Receipt,yes,Required for the admission process.
+8,Admission,Previous Medical Records,no,Required for the admission process.
+9,Admission,Emergency Contact Details Form,yes,Required for the admission process.
+10,Billing,Admission ID,yes,Required for the billing process.
+11,Billing,Insurance Approval Letter (if applicable),yes,Required for the billing process.
+12,Billing,Itemized Bill Request Form,no,Required for the billing process.
+13,Insurance,Insurance Policy Card,yes,Required for the insurance process.
+14,Insurance,Government ID Proof,yes,Required for the insurance process.
+15,Insurance,Pre-authorization Form,yes,Required for the insurance process.
+16,Insurance,Claim Form,no,Required for the insurance process.
+17,Insurance,Hospital Empanelment Letter,yes,Required for the insurance process.
+18,Discharge,Discharge Summary Acknowledgement,yes,Required for the discharge process.
+19,Discharge,Final Bill Payment Receipt,yes,Required for the discharge process.
+20,Discharge,Follow-up Appointment Slip,no,Required for the discharge process.
+21,Laboratory,Doctor's Test Prescription,yes,Required for the laboratory process.
+22,Laboratory,Patient ID Card,yes,Required for the laboratory process.
+23,Pharmacy,Doctor's Prescription,yes,Required for the pharmacy process.
+24,Pharmacy,Patient ID Card,no,Required for the pharmacy process.

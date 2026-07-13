@@ -1,0 +1,222 @@
+[
+  {
+    "id": 1,
+    "name": "General Medicine",
+    "description": "Everyday illness, fever, general checkups",
+    "floor_number": 1,
+    "building_name": "Main Building",
+    "contact_number": "+91-40-4000-1001",
+    "office_hours": "Mon-Sat 09:00-17:00",
+    "avg_waiting_time_minutes": 10,
+    "keywords": "General,Fever,Cold,Cough,Checkup,OPD"
+  },
+  {
+    "id": 2,
+    "name": "Cardiology",
+    "description": "Heart disease and cardiovascular care",
+    "floor_number": 3,
+    "building_name": "Main Building",
+    "contact_number": "+91-40-4000-1002",
+    "office_hours": "Mon-Sat 09:00-17:00",
+    "avg_waiting_time_minutes": 10,
+    "keywords": "Heart,Chest Pain,Cardiac,ECG,Blood Pressure"
+  },
+  {
+    "id": 3,
+    "name": "Orthopedics",
+    "description": "Bone, joint, and spine care",
+    "floor_number": 2,
+    "building_name": "Main Building",
+    "contact_number": "+91-40-4000-1003",
+    "office_hours": "Mon-Sat 09:00-17:00",
+    "avg_waiting_time_minutes": 20,
+    "keywords": "Bone,Fracture,Joint,Spine,Back Pain"
+  },
+  {
+    "id": 4,
+    "name": "Neurology",
+    "description": "Brain and nervous system disorders",
+    "floor_number": 4,
+    "building_name": "Main Building",
+    "contact_number": "+91-40-4000-1004",
+    "office_hours": "Mon-Sat 09:00-17:00",
+    "avg_waiting_time_minutes": 15,
+    "keywords": "Brain,Nerve,Headache,Migraine,Stroke,Seizure"
+  },
+  {
+    "id": 5,
+    "name": "Gastroenterology",
+    "description": "Digestive system care",
+    "floor_number": 2,
+    "building_name": "Main Building",
+    "contact_number": "+91-40-4000-1005",
+    "office_hours": "Mon-Sat 09:00-17:00",
+    "avg_waiting_time_minutes": 15,
+    "keywords": "Stomach,Digestion,Liver,Ulcer,Acidity"
+  },
+  {
+    "id": 6,
+    "name": "Pulmonology",
+    "description": "Breathing and respiratory disorders",
+    "floor_number": 3,
+    "building_name": "Main Building",
+    "contact_number": "+91-40-4000-1006",
+    "office_hours": "Mon-Sat 09:00-17:00",
+    "avg_waiting_time_minutes": 15,
+    "keywords": "Lungs,Breathing,Asthma,Cough,Respiratory"
+  },
+  {
+    "id": 7,
+    "name": "Oncology",
+    "description": "Cancer diagnosis and treatment",
+    "floor_number": 5,
+    "building_name": "Cancer Care Building",
+    "contact_number": "+91-40-4000-1007",
+    "office_hours": "Mon-Sat 09:00-17:00",
+    "avg_waiting_time_minutes": 10,
+    "keywords": "Cancer,Tumor,Chemotherapy,Oncology"
+  },
+  {
+    "id": 8,
+    "name": "Pediatrics",
+    "description": "Child healthcare",
+    "floor_number": 1,
+    "building_name": "Main Building",
+    "contact_number": "+91-40-4000-1008",
+    "office_hours": "Mon-Sat 09:00-17:00",
+    "avg_waiting_time_minutes": 30,
+    "keywords": "Child,Baby,Infant,Vaccination,Pediatric"
+  },
+  {
+    "id": 9,
+    "name": "Gynecology",
+    "description": "Women's health and maternity",
+    "floor_number": 2,
+    "building_name": "Main Building",
+    "contact_number": "+91-40-4000-1009",
+    "office_hours": "Mon-Sat 09:00-17:00",
+    "avg_waiting_time_minutes": 10,
+    "keywords": "Pregnancy,Women,Maternity,Gynecology"
+  },
+  {
+    "id": 10,
+    "name": "Dermatology",
+    "description": "Skin, hair, and nail care",
+    "floor_number": 1,
+    "building_name": "Main Building",
+    "contact_number": "+91-40-4000-1010",
+    "office_hours": "Mon-Sat 09:00-17:00",
+    "avg_waiting_time_minutes": 30,
+    "keywords": "Skin,Rash,Allergy,Hair,Dermatology"
+  },
+  {
+    "id": 11,
+    "name": "ENT",
+    "description": "Ear, nose, and throat care",
+    "floor_number": 1,
+    "building_name": "Main Building",
+    "contact_number": "+91-40-4000-1011",
+    "office_hours": "Mon-Sat 09:00-17:00",
+    "avg_waiting_time_minutes": 25,
+    "keywords": "Ear,Nose,Throat,Hearing,Sinus"
+  },
+  {
+    "id": 12,
+    "name": "Ophthalmology",
+    "description": "Eye care",
+    "floor_number": 1,
+    "building_name": "Main Building",
+    "contact_number": "+91-40-4000-1012",
+    "office_hours": "Mon-Sat 09:00-17:00",
+    "avg_waiting_time_minutes": 10,
+    "keywords": "Eye,Vision,Cataract,Ophthalmology"
+  },
+  {
+    "id": 13,
+    "name": "Dentistry",
+    "description": "Dental and oral care",
+    "floor_number": 0,
+    "building_name": "Main Building",
+    "contact_number": "+91-40-4000-1013",
+    "office_hours": "Mon-Sat 09:00-17:00",
+    "avg_waiting_time_minutes": 10,
+    "keywords": "Teeth,Dental,Tooth,Oral"
+  },
+  {
+    "id": 14,
+    "name": "Psychiatry",
+    "description": "Mental health care",
+    "floor_number": 4,
+    "building_name": "Main Building",
+    "contact_number": "+91-40-4000-1014",
+    "office_hours": "Mon-Sat 09:00-17:00",
+    "avg_waiting_time_minutes": 10,
+    "keywords": "Mental Health,Anxiety,Depression,Psychiatry"
+  },
+  {
+    "id": 15,
+    "name": "Nephrology",
+    "description": "Kidney care",
+    "floor_number": 3,
+    "building_name": "Main Building",
+    "contact_number": "+91-40-4000-1015",
+    "office_hours": "Mon-Sat 09:00-17:00",
+    "avg_waiting_time_minutes": 15,
+    "keywords": "Kidney,Dialysis,Nephrology"
+  },
+  {
+    "id": 16,
+    "name": "Urology",
+    "description": "Urinary system care",
+    "floor_number": 3,
+    "building_name": "Main Building",
+    "contact_number": "+91-40-4000-1016",
+    "office_hours": "Mon-Sat 09:00-17:00",
+    "avg_waiting_time_minutes": 15,
+    "keywords": "Urinary,Bladder,Prostate,Urology"
+  },
+  {
+    "id": 17,
+    "name": "Emergency",
+    "description": "24x7 emergency and trauma care",
+    "floor_number": 0,
+    "building_name": "Main Building",
+    "contact_number": "+91-40-4000-1017",
+    "office_hours": "24x7",
+    "avg_waiting_time_minutes": 30,
+    "keywords": "Emergency,Trauma,Accident,Urgent,Casualty"
+  },
+  {
+    "id": 18,
+    "name": "Radiology & Imaging",
+    "description": "X-ray, CT, MRI, ultrasound",
+    "floor_number": 0,
+    "building_name": "Diagnostics Building",
+    "contact_number": "+91-40-4000-1018",
+    "office_hours": "Mon-Sat 09:00-17:00",
+    "avg_waiting_time_minutes": 30,
+    "keywords": "X-ray,Scan,MRI,CT,Ultrasound,Imaging"
+  },
+  {
+    "id": 19,
+    "name": "Laboratory",
+    "description": "Blood tests and diagnostics",
+    "floor_number": 0,
+    "building_name": "Diagnostics Building",
+    "contact_number": "+91-40-4000-1019",
+    "office_hours": "Mon-Sat 09:00-17:00",
+    "avg_waiting_time_minutes": 10,
+    "keywords": "Blood Test,Lab,Sample,Diagnostics,Pathology"
+  },
+  {
+    "id": 20,
+    "name": "Pharmacy",
+    "description": "Medicine dispensing",
+    "floor_number": 0,
+    "building_name": "Main Building",
+    "contact_number": "+91-40-4000-1020",
+    "office_hours": "Mon-Sat 09:00-17:00",
+    "avg_waiting_time_minutes": 30,
+    "keywords": "Medicine,Pharmacy,Drugs,Prescription"
+  }
+]

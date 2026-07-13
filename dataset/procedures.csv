@@ -1,0 +1,41 @@
+id,name,category,description,estimated_cost,prep_instructions
+1,Appendectomy,Surgery,Appendectomy - performed by our Surgery specialists.,45000,8 hours fasting required before surgery.
+2,Angioplasty,Cardiology,Angioplasty - performed by our Cardiology specialists.,248000,Blood tests and consent form required.
+3,Knee Replacement,Orthopedics,Knee Replacement - performed by our Orthopedics specialists.,350000,Pre-op assessment 1 week prior.
+4,Cataract Surgery,Ophthalmology,Cataract Surgery - performed by our Ophthalmology specialists.,32000,Avoid eye makeup on the day of surgery.
+5,Gallbladder Removal,Surgery,Gallbladder Removal - performed by our Surgery specialists.,62000,12 hours fasting required.
+6,Root Canal Treatment,Dentistry,Root Canal Treatment - performed by our Dentistry specialists.,11000,Avoid hot/cold food before procedure.
+7,Hernia Repair,Surgery,Hernia Repair - performed by our Surgery specialists.,45000,Fasting for 8 hours before surgery.
+8,Cesarean Delivery,Gynecology,Cesarean Delivery - performed by our Gynecology specialists.,57000,Admission 1 day prior recommended.
+9,Colonoscopy,Gastroenterology,Colonoscopy - performed by our Gastroenterology specialists.,13000,Special diet 1 day before procedure.
+10,Hip Replacement,Orthopedics,Hip Replacement - performed by our Orthopedics specialists.,385000,Pre-op physiotherapy assessment required.
+11,Appendectomy,Surgery,Appendectomy - performed by our Surgery specialists.,45000,8 hours fasting required before surgery.
+12,Angioplasty,Cardiology,Angioplasty - performed by our Cardiology specialists.,250000,Blood tests and consent form required.
+13,Knee Replacement,Orthopedics,Knee Replacement - performed by our Orthopedics specialists.,350000,Pre-op assessment 1 week prior.
+14,Cataract Surgery,Ophthalmology,Cataract Surgery - performed by our Ophthalmology specialists.,32000,Avoid eye makeup on the day of surgery.
+15,Gallbladder Removal,Surgery,Gallbladder Removal - performed by our Surgery specialists.,58000,12 hours fasting required.
+16,Root Canal Treatment,Dentistry,Root Canal Treatment - performed by our Dentistry specialists.,8000,Avoid hot/cold food before procedure.
+17,Hernia Repair,Surgery,Hernia Repair - performed by our Surgery specialists.,42000,Fasting for 8 hours before surgery.
+18,Cesarean Delivery,Gynecology,Cesarean Delivery - performed by our Gynecology specialists.,55000,Admission 1 day prior recommended.
+19,Colonoscopy,Gastroenterology,Colonoscopy - performed by our Gastroenterology specialists.,8000,Special diet 1 day before procedure.
+20,Hip Replacement,Orthopedics,Hip Replacement - performed by our Orthopedics specialists.,385000,Pre-op physiotherapy assessment required.
+21,Appendectomy,Surgery,Appendectomy - performed by our Surgery specialists.,43000,8 hours fasting required before surgery.
+22,Angioplasty,Cardiology,Angioplasty - performed by our Cardiology specialists.,250000,Blood tests and consent form required.
+23,Knee Replacement,Orthopedics,Knee Replacement - performed by our Orthopedics specialists.,355000,Pre-op assessment 1 week prior.
+24,Cataract Surgery,Ophthalmology,Cataract Surgery - performed by our Ophthalmology specialists.,28000,Avoid eye makeup on the day of surgery.
+25,Gallbladder Removal,Surgery,Gallbladder Removal - performed by our Surgery specialists.,60000,12 hours fasting required.
+26,Root Canal Treatment,Dentistry,Root Canal Treatment - performed by our Dentistry specialists.,8000,Avoid hot/cold food before procedure.
+27,Hernia Repair,Surgery,Hernia Repair - performed by our Surgery specialists.,42000,Fasting for 8 hours before surgery.
+28,Cesarean Delivery,Gynecology,Cesarean Delivery - performed by our Gynecology specialists.,53000,Admission 1 day prior recommended.
+29,Colonoscopy,Gastroenterology,Colonoscopy - performed by our Gastroenterology specialists.,6000,Special diet 1 day before procedure.
+30,Hip Replacement,Orthopedics,Hip Replacement - performed by our Orthopedics specialists.,380000,Pre-op physiotherapy assessment required.
+31,Appendectomy,Surgery,Appendectomy - performed by our Surgery specialists.,45000,8 hours fasting required before surgery.
+32,Angioplasty,Cardiology,Angioplasty - performed by our Cardiology specialists.,248000,Blood tests and consent form required.
+33,Knee Replacement,Orthopedics,Knee Replacement - performed by our Orthopedics specialists.,348000,Pre-op assessment 1 week prior.
+34,Cataract Surgery,Ophthalmology,Cataract Surgery - performed by our Ophthalmology specialists.,35000,Avoid eye makeup on the day of surgery.
+35,Gallbladder Removal,Surgery,Gallbladder Removal - performed by our Surgery specialists.,65000,12 hours fasting required.
+36,Root Canal Treatment,Dentistry,Root Canal Treatment - performed by our Dentistry specialists.,11000,Avoid hot/cold food before procedure.
+37,Hernia Repair,Surgery,Hernia Repair - performed by our Surgery specialists.,42000,Fasting for 8 hours before surgery.
+38,Cesarean Delivery,Gynecology,Cesarean Delivery - performed by our Gynecology specialists.,57000,Admission 1 day prior recommended.
+39,Colonoscopy,Gastroenterology,Colonoscopy - performed by our Gastroenterology specialists.,13000,Special diet 1 day before procedure.
+40,Hip Replacement,Orthopedics,Hip Replacement - performed by our Orthopedics specialists.,385000,Pre-op physiotherapy assessment required.
