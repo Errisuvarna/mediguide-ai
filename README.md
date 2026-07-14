@@ -1,5 +1,9 @@
 # 🏥 MediGuide AI — Intelligent Voice-Based Hospital Navigation & Patient Assistance System
 
+[![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/Errisuvarna/mediguide-ai)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/Errisuvarna/mediguide-ai)
+[![Deploy Backend to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/Errisuvarna/mediguide-ai)
+
 MediGuide AI is a digital hospital receptionist: patients, visitors, and
 elderly users can type or speak a question — in English, Hindi, or
 Telugu — and get instant guidance on departments, doctors, rooms,
@@ -8,6 +12,14 @@ emergency directions.
 
 **This system does not diagnose disease, prescribe medicine, or replace
 a doctor.** It is strictly a navigation and administrative assistant.
+
+## 🚀 Quick Deploy (1-Click)
+
+Click any button above to deploy instantly:
+- **Vercel** or **Netlify** for Frontend
+- **Render** for Backend
+
+After deployment, you'll get a live link immediately!
 
 ## Architecture
 
